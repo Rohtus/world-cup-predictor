@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# Jupyter
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
