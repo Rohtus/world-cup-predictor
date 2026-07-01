@@ -1,0 +1,170 @@
+WORLD CUP PREDICTOR 2026 — ROADMAP V1
+
+Estado actual:
+El proyecto completó la primera etapa de Machine Learning.
+
+Se construyó el pipeline base:
+
+Events
+↓
+Player Vector
+↓
+Team Vector
+↓
+Match Vector
+↓
+Feature Engineering
+↓
+Model Comparison
+↓
+Feature Selection
+↓
+XGBoost Baseline
+↓
+XGBoost Optimization
+
+Conclusión actual:
+El mejor modelo obtenido hasta ahora es Random Forest V03, con accuracy aproximada de 0.515625 sobre el set de prueba 2022.
+
+La optimización de XGBoost mejoró su rendimiento respecto al baseline, pero no logró superar al Random Forest.
+
+A partir de ahora, el proyecto cambia de foco:
+de optimizar modelos históricos a construir un sistema capaz de predecir partidos futuros usando planteles actuales.
+
+==================================================
+
+OBJETIVO V1
+
+Construir una primera versión funcional del World Cup Predictor 2026 que:
+
+1. Use datos históricos del Mundial 2018 y Mundial 2022 como base de entrenamiento.
+2. Construya una base actualizada de jugadores a partir de datos internacionales recientes disponibles.
+3. Permita cargar selecciones actuales con sus jugadores.
+4. Transforme esos planteles en vectores compatibles con el pipeline actual.
+5. Genere predicciones de partidos futuros.
+6. Permita simular el Mundial 2026 mediante Monte Carlo.
+
+==================================================
+
+ESTRATEGIA GENERAL
+
+La V1 se divide en dos grandes etapas.
+
+ETAPA A — Mejorar el input, manteniendo el modelo actual
+
+Objetivo:
+Usar el modelo ya validado, pero alimentarlo con representaciones más actuales de los equipos.
+
+Esto permite probar el sistema con planteles actuales sin modificar todavía el entrenamiento del modelo.
+
+Pipeline esperado:
+
+País + jugadores actuales
+↓
+Player Database actualizada
+↓
+Roster Vector
+↓
+Team Vector 2026
+↓
+Match Vector futuro
+↓
+Feature Engineering V03
+↓
+Feature Selection V03
+↓
+Random Forest V03
+↓
+Predicción de probabilidades
+
+==================================================
+
+ETAPA B — Expandir el entrenamiento
+
+Objetivo:
+Agregar torneos internacionales recientes al dataset de entrenamiento y comprobar si mejoran el rendimiento.
+
+La incorporación de más datos debe validarse experimentalmente.
+
+No se asume que más datos implican mejor modelo.
+
+Se priorizarán datos recientes porque el fútbol cambió significativamente en ritmo, presión, posesión, intensidad, reglamentos y dinámica táctica.
+
+Ventanas posibles para comparar:
+
+* 2018+
+* 2014+
+* 2010+
+* 2006+ solo si realmente aporta
+
+La hipótesis principal es que la última década probablemente tenga mejor balance entre cantidad de datos y representatividad del fútbol moderno.
+
+
+==================================================
+
+PRINCIPIO METODOLÓGICO
+
+Cada notebook debe responder una pregunta específica.
+
+No se debe agregar complejidad sin medir su efecto.
+
+La prioridad de la V1 es construir un pipeline funcional, explicable y modular.
+
+La expansión de datos debe hacerse por etapas y validarse con resultados.
+
+==================================================
+
+VERSIÓN FINAL PRE-MUNDIAL
+
+La primera versión final del proyecto debería permitir:
+
+1. Cargar o definir planteles actuales.
+2. Convertir jugadores en vectores.
+3. Construir vectores de selecciones.
+4. Predecir partidos futuros.
+5. Simular el Mundial 2026.
+6. Obtener ranking de probabilidades de campeón.
+
+==================================================
+
+VERSIÓN DEFINITIVA POST-MUNDIAL
+
+Después del Mundial 2026, el proyecto puede evolucionar hacia una versión más completa.
+
+Objetivo:
+Entrenar con una base internacional más amplia.
+
+Datos posibles:
+
+* Mundial 2018
+* Mundial 2022
+* Mundial 2026
+* Copa América
+* Eurocopa
+* Copa Asiática
+* Copa Africana
+* otras competiciones internacionales masculinas disponibles
+
+Pregunta central:
+¿Cuánto historial conviene usar para predecir fútbol moderno?
+
+Se podrían comparar datasets:
+
+* 2022+
+* 2018+
+* 2014+
+* 2010+
+* 2006+
+
+La inclusión de datos antiguos solo se justifica si mejora el rendimiento sin introducir ruido excesivo.
+
+==================================================
+
+VERSIÓN 2 FUTURA
+
+La V2 futura podría convertirse en un sistema actualizable.
+
+Objetivo:
+Un pipeline capaz de incorporar nuevos partidos, actualizar vectores de jugadores, recalcular rankings y generar nuevas simulaciones para futuras competiciones.
+
+Esta etapa queda fuera del alcance inmediato de la V1.

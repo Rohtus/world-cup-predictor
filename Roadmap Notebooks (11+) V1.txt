@@ -1,0 +1,231 @@
+WORLD CUP PREDICTOR 2026 — ROADMAP V1
+
+==================================================
+
+ROADMAP DE NOTEBOOKS V1
+
+11_international_data_inventory.ipynb
+
+Objetivo:
+Explorar qué competiciones internacionales están disponibles en los datos actuales.
+
+Preguntas:
+
+* ¿Qué torneos hay disponibles además de los Mundiales 2018 y 2022?
+* ¿Hay Copa América?
+* ¿Hay Eurocopa?
+* ¿Hay competiciones asiáticas o africanas?
+* ¿Qué años cubren?
+* ¿Qué datos tienen: events, matches, lineups?
+* ¿Qué torneos sirven para construir vectores recientes de jugadores?
+
+Output esperado:
+Una tabla de competiciones disponibles y una decisión documentada sobre cuáles usar para la Player Database V1.
+
+---
+
+12_player_database_v01.ipynb
+
+Objetivo:
+Construir una base global de jugadores usando los torneos internacionales recientes disponibles.
+
+Input:
+Eventos de competiciones seleccionadas.
+
+Output:
+player_database_v01.csv
+
+La base debería incluir:
+
+* player_id
+* player_name
+* team_name / country
+* competition
+* season
+* event counts
+* vector agregado por jugador
+* cantidad de partidos disponibles
+* minutos o apariciones si están disponibles
+
+Propósito:
+Tener una representación más actual de jugadores que podrían participar en el Mundial 2026.
+
+---
+
+13_roster_vector_v01.ipynb
+
+Objetivo:
+Construir vectores de selecciones actuales a partir de listas de jugadores.
+
+Input:
+
+* Lista de países
+* Lista de jugadores por país
+* player_database_v01.csv
+
+Proceso:
+
+* Buscar cada jugador en la database.
+* Agregar sus vectores.
+* Manejar jugadores faltantes.
+* Crear un vector agregado por selección.
+
+Output:
+roster_vector_v01.csv
+
+Preguntas clave:
+
+* ¿Qué hacemos con jugadores sin datos?
+* ¿Promediamos o sumamos?
+* ¿Ponderamos por apariciones?
+* ¿Cómo medimos cobertura del plantel?
+
+---
+
+14_future_match_vector_v01.ipynb
+
+Objetivo:
+Convertir dos selecciones actuales en un match vector compatible con el pipeline existente.
+
+Input:
+
+* roster_vector_v01.csv
+* nombres de dos selecciones
+
+Output:
+Un vector de partido futuro con estructura equivalente a los match vectors usados por el modelo.
+
+Debe generar:
+
+* home_ features
+* away_ features
+* diff_ features
+* relative_diff_ features
+* sum_ features
+* selección de features V03
+
+---
+
+15_prediction_pipeline_v01.ipynb
+
+Objetivo:
+Construir el primer predictor reutilizable de partidos futuros.
+
+Input:
+
+* home_team
+* away_team
+* roster/team vectors
+* modelo Random Forest V03
+
+Output esperado:
+
+predict_match("Argentina", "France")
+
+Resultado:
+
+home_win_probability
+draw_probability
+away_win_probability
+
+Propósito:
+Separar claramente la predicción de partidos de la simulación del torneo.
+
+---
+
+16_monte_carlo_match_simulation.ipynb
+
+Objetivo:
+Simular un partido muchas veces usando las probabilidades del modelo.
+
+Input:
+Probabilidades de un partido.
+
+Proceso:
+Sorteo probabilístico del resultado.
+
+Output:
+Distribución simulada de resultados.
+
+Propósito:
+Validar que la simulación Monte Carlo reproduce correctamente las probabilidades del predictor.
+
+---
+
+17_group_stage_simulator_v01.ipynb
+
+Objetivo:
+Simular una fase de grupos completa.
+
+Input:
+Grupo de 4 equipos.
+
+Proceso:
+
+* Generar los 6 partidos.
+* Predecir probabilidades.
+* Simular resultados.
+* Calcular puntos.
+* Calcular goles/diferencia de gol si se implementa una aproximación.
+* Ordenar tabla final.
+
+Output:
+Tabla simulada del grupo.
+
+---
+
+18_world_cup_simulator_v01.ipynb
+
+Objetivo:
+Simular el Mundial 2026 completo.
+
+Proceso:
+
+* Simular fase de grupos.
+* Definir clasificados.
+* Simular cruces eliminatorios.
+* Registrar campeón, subcampeón y fases alcanzadas.
+
+Output:
+Resultado de una simulación completa del torneo.
+
+---
+
+19_tournament_statistics_v01.ipynb
+
+Objetivo:
+Ejecutar muchas simulaciones completas del Mundial.
+
+Ejemplos:
+
+* 1.000 simulaciones
+* 5.000 simulaciones
+* 10.000 simulaciones
+
+Output:
+Ranking de probabilidades por selección:
+
+* probabilidad de pasar grupos
+* probabilidad de llegar a octavos
+* probabilidad de llegar a cuartos
+* probabilidad de llegar a semifinal
+* probabilidad de llegar a la final
+* probabilidad de ser campeón
+
+---
+
+20_visualizations_v01.ipynb
+
+Objetivo:
+Crear visualizaciones finales para análisis, reporte y README.
+
+Visualizaciones posibles:
+
+* ranking de campeón
+* probabilidades por fase
+* barras por selección
+* tabla final de favoritos
+* bracket simulado
+* comparación entre modelos si aplica
+* cobertura de datos por selección
+* cobertura de datos por jugador
