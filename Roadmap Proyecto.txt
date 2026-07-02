@@ -57,6 +57,17 @@ Usar el modelo ya validado, pero alimentarlo con representaciones más actuales 
 
 Esto permite probar el sistema con planteles actuales sin modificar todavía el entrenamiento del modelo.
 
+ETAPA A — Representación de selecciones actuales
+
+✔ Competitions Inventory
+✔ International Player Database
+⬜ Current Rosters
+⬜ Current Team Vectors
+⬜ Future Match Vector
+⬜ Prediction Pipeline
+⬜ Monte Carlo
+⬜ World Cup Simulator
+
 Pipeline esperado:
 
 País + jugadores actuales

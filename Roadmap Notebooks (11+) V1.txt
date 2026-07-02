@@ -81,36 +81,21 @@ Preguntas clave:
 * ¿Cómo medimos cobertura del plantel?
 
 ---
+14_current_team_vector_v01.ipynb
 
-14_future_match_vector_v01.ipynb
+Aquí recién se decide:
 
-Objetivo:
-Convertir dos selecciones actuales en un match vector compatible con el pipeline existente.
-
-Input:
-
-* roster_vector_v01.csv
-* nombres de dos selecciones
-
-Output:
-Un vector de partido futuro con estructura equivalente a los match vectors usados por el modelo.
-
-Debe generar:
-
-* home_ features
-* away_ features
-* diff_ features
-* relative_diff_ features
-* sum_ features
-* selección de features V03
+suma vs promedio
+weighting
+cobertura
+vector final por selección
 
 ---
 
-15_prediction_pipeline_v01.ipynb
+15_future_match_vector_v01.ipynb
 
-Objetivo:
-Construir el primer predictor reutilizable de partidos futuros.
-
+Objetivo
+Tomar dos Team Vectors actuales y construir exactamente el mismo espacio de features que espera Random Forest V03.
 Input:
 
 * home_team
@@ -136,96 +121,289 @@ Separar claramente la predicción de partidos de la simulación del torneo.
 16_monte_carlo_match_simulation.ipynb
 
 Objetivo:
-Simular un partido muchas veces usando las probabilidades del modelo.
+WORLD CUP PREDICTOR 2026 — ROADMAP V1
 
-Input:
-Probabilidades de un partido.
+==================================================
 
-Proceso:
-Sorteo probabilístico del resultado.
+ROADMAP DE NOTEBOOKS V1
 
-Output:
-Distribución simulada de resultados.
-
-Propósito:
-Validar que la simulación Monte Carlo reproduce correctamente las probabilidades del predictor.
-
----
-
-17_group_stage_simulator_v01.ipynb
+✔ 11_competitions_eda.ipynb
 
 Objetivo:
-Simular una fase de grupos completa.
+Explorar las competiciones internacionales disponibles en StatsBomb Open Data para definir cuáles serán utilizadas en la construcción de la base internacional de jugadores.
+
+Preguntas:
+
+* ¿Qué torneos internacionales masculinos están disponibles?
+* ¿Qué años cubren?
+* ¿Qué datos posee cada competición?
+* ¿Qué torneos representan mejor el estado actual del fútbol internacional?
+
+Resultado:
+
+Competiciones seleccionadas para la V1:
+
+* FIFA World Cup 2018
+* FIFA World Cup 2022
+* UEFA Euro 2020
+* UEFA Euro 2024
+* Copa America 2024
+* African Cup of Nations 2023
+
+Output:
+
+Listado documentado de competiciones seleccionadas.
+
+--------------------------------------------------
+
+✔ 12_international_player_database.ipynb
+
+Objetivo:
+
+Construir una base internacional unificada de jugadores reutilizando el pipeline de Player Vectors para múltiples competiciones.
 
 Input:
-Grupo de 4 equipos.
+
+Eventos de las competiciones seleccionadas.
 
 Proceso:
 
-* Generar los 6 partidos.
+* Construcción de Player Vectors por competición.
+* Concatenación de todas las competiciones.
+* Resolución de diferencias de columnas.
+* Agrupación por player_id.
+* Validaciones de consistencia.
+
+Output:
+
+* international_player_database_v01.csv
+* international_player_vectors_match_level_v01.csv
+
+Resumen V1:
+
+* 6 competiciones
+* 76 selecciones
+* 2279 jugadores únicos
+* 9560 player vectors a nivel partido
+
+--------------------------------------------------
+
+13_current_rosters_v01.ipynb
+
+Objetivo:
+
+Construir la representación actual de las selecciones nacionales mediante el matching entre convocatorias actuales e International Player Database.
+
+Input:
+
+* Lista de selecciones
+* Convocatorias actuales
+* international_player_database_v01.csv
+
+Proceso:
+
+* Buscar cada jugador en la base.
+* Resolver diferencias de nombres.
+* Asociar cada jugador con su player_id.
+* Detectar jugadores faltantes.
+* Calcular cobertura de cada plantel.
+
+Output:
+
+* current_rosters_v01.csv
+* roster_coverage_report.csv
+
+Preguntas clave:
+
+* ¿Qué porcentaje del plantel posee datos?
+* ¿Qué jugadores no pudieron asociarse?
+* ¿Qué selecciones presentan menor cobertura?
+
+--------------------------------------------------
+
+14_current_team_vector_v01.ipynb
+
+Objetivo:
+
+Construir un vector representativo para cada selección nacional actual a partir de los jugadores encontrados.
+
+Input:
+
+* current_rosters_v01.csv
+* international_player_database_v01.csv
+
+Proceso:
+
+* Agregar vectores individuales.
+* Comparar distintas estrategias de agregación.
+* Evaluar cobertura efectiva.
+* Generar un único vector por selección.
+
+Output:
+
+current_team_vector_v01.csv
+
+Preguntas clave:
+
+* ¿Suma o promedio?
+* ¿Ponderar por apariciones?
+* ¿Excluir jugadores sin datos?
+* ¿Cómo medir la calidad del vector generado?
+
+--------------------------------------------------
+
+15_future_match_vector_v01.ipynb
+
+Objetivo:
+
+Construir un Match Vector futuro completamente compatible con el pipeline de entrenamiento.
+
+Input:
+
+* current_team_vector_v01.csv
+* Selección local
+* Selección visitante
+
+Proceso:
+
+* Construir home_ features.
+* Construir away_ features.
+* Generar diff_ features.
+* Generar relative_diff_ features.
+* Generar sum_ features.
+* Aplicar Feature Selection V03.
+
+Output:
+
+future_match_vector_v01.csv
+
+El resultado deberá ser estructuralmente equivalente al Match Vector utilizado durante el entrenamiento del modelo.
+
+--------------------------------------------------
+
+16_prediction_pipeline_v01.ipynb
+
+Objetivo:
+
+Construir el primer predictor reutilizable de partidos futuros.
+
+Input:
+
+* home_team
+* away_team
+* current_team_vector_v01.csv
+* Random Forest V03
+
+Output esperado:
+
+predict_match(home_team, away_team)
+
+Resultado:
+
+* home_win_probability
+* draw_probability
+* away_win_probability
+
+Propósito:
+
+Separar completamente la predicción de partidos de la simulación del torneo.
+
+--------------------------------------------------
+
+17_monte_carlo_match_simulation.ipynb
+
+Objetivo:
+
+Simular un partido muchas veces utilizando las probabilidades predichas por el modelo.
+
+Proceso:
+
+* Ejecutar simulaciones Monte Carlo.
+* Muestrear resultados según las probabilidades.
+* Analizar la distribución obtenida.
+
+Output:
+
+Distribución simulada de resultados.
+
+--------------------------------------------------
+
+18_group_stage_simulator_v01.ipynb
+
+Objetivo:
+
+Simular una fase de grupos completa del Mundial.
+
+Proceso:
+
+* Generar los seis partidos.
 * Predecir probabilidades.
 * Simular resultados.
 * Calcular puntos.
-* Calcular goles/diferencia de gol si se implementa una aproximación.
-* Ordenar tabla final.
+* Construir la tabla final del grupo.
 
 Output:
+
 Tabla simulada del grupo.
 
----
+--------------------------------------------------
 
-18_world_cup_simulator_v01.ipynb
+19_world_cup_simulator_v01.ipynb
 
 Objetivo:
+
 Simular el Mundial 2026 completo.
 
 Proceso:
 
 * Simular fase de grupos.
-* Definir clasificados.
-* Simular cruces eliminatorios.
-* Registrar campeón, subcampeón y fases alcanzadas.
+* Determinar clasificados.
+* Simular fases eliminatorias.
+* Registrar campeón y posiciones alcanzadas.
 
 Output:
-Resultado de una simulación completa del torneo.
 
----
+Resultado completo de una simulación del torneo.
 
-19_tournament_statistics_v01.ipynb
+--------------------------------------------------
+
+20_tournament_statistics_v01.ipynb
 
 Objetivo:
-Ejecutar muchas simulaciones completas del Mundial.
+
+Ejecutar miles de simulaciones del Mundial para estimar probabilidades finales.
 
 Ejemplos:
 
-* 1.000 simulaciones
-* 5.000 simulaciones
-* 10.000 simulaciones
+* 1000 simulaciones
+* 5000 simulaciones
+* 10000 simulaciones
 
 Output:
-Ranking de probabilidades por selección:
 
-* probabilidad de pasar grupos
-* probabilidad de llegar a octavos
-* probabilidad de llegar a cuartos
-* probabilidad de llegar a semifinal
-* probabilidad de llegar a la final
-* probabilidad de ser campeón
+Ranking de probabilidades para cada selección:
 
----
+* Clasificar a octavos
+* Clasificar a cuartos
+* Clasificar a semifinales
+* Llegar a la final
+* Ser campeón
 
-20_visualizations_v01.ipynb
+--------------------------------------------------
+
+21_visualizations_v01.ipynb
 
 Objetivo:
-Crear visualizaciones finales para análisis, reporte y README.
+
+Construir las visualizaciones finales del proyecto para análisis, documentación y README.
 
 Visualizaciones posibles:
 
-* ranking de campeón
-* probabilidades por fase
-* barras por selección
-* tabla final de favoritos
-* bracket simulado
-* comparación entre modelos si aplica
-* cobertura de datos por selección
-* cobertura de datos por jugador
+* Ranking de favoritos.
+* Probabilidad de campeón.
+* Probabilidad por fase.
+* Cobertura por selección.
+* Cobertura por jugador.
+* Comparación entre modelos.
+* Bracket de una simulación.
+* Visualizaciones para GitHub.
