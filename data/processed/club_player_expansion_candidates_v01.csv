@@ -1,0 +1,58 @@
+country,roster_name,position,shirt_number,found_in_club_data,club_player_id,club_player_name,club_team_name
+Algeria (ALG),GOUIRI Amine,Forward,9,True,4435.0,Amine Gouiri,Rennes
+Algeria (ALG),HADJAM Jaouen,Defender,13,True,45089.0,Jaouen Hadjam,Nantes
+Argentina (ARG),RULLI Geronimo,Goalkeeper,12,True,6694.0,Gerónimo Rulli,Villarreal
+Argentina (ARG),LOPEZ Jose,Forward,21,True,49302.0,José Manuel Cabrera López,Villarreal
+Argentina (ARG),MEDINA Facundo,Defender,25,True,30415.0,Facundo Axel Medina,Lens
+Austria (AUT),LJUBICIC Dejan,Midfielder,19,True,8623.0,Dejan Ljubicic,FC Köln
+Austria (AUT),FRIEDL Marco,Defender,23,True,15854.0,Marco Friedl,Werder Bremen
+Bosnia And Herzegovina (BIH),KOLASINAC Sead,Defender,5,True,3510.0,Sead Kolašinac,Olympique de Marseille
+Bosnia And Herzegovina (BIH),DEMIROVIC Ermedin,Forward,10,True,6874.0,Ermedin Demirović,Augsburg
+Brazil (BRA),RAYAN Rayan,Forward,26,True,32649.0,Mathis Rayan Cherki,Lyon
+Cabo Verde (CPV),NUNO DA,Midfielder,21,True,3216.0,Nuno Miguel da Costa Jóia,Auxerre
+Colombia (COL),PUERTA Gustavo,Defender,14,True,261630.0,Gustavo Adolfo Puerta Molano,Bayer Leverkusen
+Colombia (COL),SUAREZ Luis,Forward,25,True,24093.0,Luis Javier Suárez Charris,Granada
+Côte D'Ivoire (CIV),WAHI Elye,Forward,12,True,61095.0,Sepe Elye Wahi,Montpellier
+Côte D'Ivoire (CIV),DOUE Guela,Defender,17,True,44732.0,Guela Doué,Rennes
+Côte D'Ivoire (CIV),AGBADOU Emmanuel,Defender,20,True,49705.0,Emmanuel Agbadou,Stade de Reims
+Côte D'Ivoire (CIV),GUESSAND Evann,Forward,22,True,45189.0,Evann Guessand,Nantes
+Côte D'Ivoire (CIV),LAFONT Alban,Goalkeeper,23,True,2981.0,Alban Lafont,Nantes
+England (ENG),SPENCE Djed,Defender,25,True,33241.0,Djed Spence,Rennes
+France (FRA),SAMBA Brice,Goalkeeper,1,True,4893.0,Brice Samba,Lens
+France (FRA),GUSTO Malo,Defender,2,True,39260.0,Malo Gusto,Lyon
+France (FRA),ZAIRE-EMERY Warren,Midfielder,18,True,144059.0,Warren Zaire Emery,Paris Saint-Germain
+France (FRA),DOUE Desire,Forward,20,True,214013.0,Désiré Doué,Rennes
+France (FRA),RISSER Robin,Goalkeeper,23,True,287392.0,Robin Risser,Strasbourg
+France (FRA),CHERKI Rayan,Midfielder,24,True,32649.0,Mathis Rayan Cherki,Lyon
+France (FRA),AKLIOUCHE Maghnes,Midfielder,25,True,144884.0,Maghnes Akliouche,AS Monaco
+France (FRA),LACROIX Maxence,Defender,26,True,22314.0,Maxence Lacroix,Wolfsburg
+Germany (GER),PAVLOVIC Aleksandar,Midfielder,5,True,140589.0,Aleksandar Pavlović,Bayern Munich
+Germany (GER),LEWELING Jamie,Midfielder,9,True,28805.0,Jamie Leweling,VfB Stuttgart
+Germany (GER),WOLTEMADE Nick,Forward,11,True,34870.0,Nick Woltemade,Werder Bremen
+Germany (GER),BAUMANN Oliver,Goalkeeper,12,True,8393.0,Oliver Baumann,Hoffenheim
+Germany (GER),STILLER Angelo,Midfielder,16,True,39360.0,Angelo Stiller,VfB Stuttgart
+Germany (GER),AMIRI Nadiem,Midfielder,20,True,8403.0,Nadiem Amiri,Bayer Leverkusen
+Germany (GER),NMECHA Felix,Midfielder,23,True,49665.0,Felix Kalu Nmecha,Borussia Dortmund
+Haiti (HAI),BELLEGARDE Jean-Ricner,Midfielder,10,True,19718.0,Jean-Ricner Bellegarde,Strasbourg
+Haiti (HAI),DUVERNE Jean-Kevin,Defender,22,True,7273.0,Jean-Kevin Duverne,Stade Brestois
+Japan (JPN),SUZUKI Yuito,Midfielder,17,True,42229.0,Yuito Suzuki,Strasbourg
+Morocco (MAR),HALHAL Redouane,Defender,25,True,138305.0,Redouane Halhal,Montpellier
+Netherlands (NED),DE JONG,Midfielder,21,True,8118.0,Frenkie de Jong,Barcelona
+Norway (NOR),HAUGE Jens,Midfielder,23,True,29925.0,Jens Petter Hauge,Eintracht Frankfurt
+Norway (NOR),RYERSON Julian,Forward,26,True,12387.0,Julian Ryerson,Borussia Dortmund
+Paraguay (PAR),GOMEZ Diego,Midfielder,8,True,222155.0,Diego Alexander Gómez Amarilla,Inter Miami
+Paraguay (PAR),SANABRIA Antonio,Forward,9,True,6880.0,Arnaldo Antonio Sanabria Ayala,Real Betis
+Portugal (POR),FRANCISCO TRINCAO,Forward,16,True,22390.0,Francisco António Machado Mota de Castro Trincão,Barcelona
+Portugal (POR),RUI SILVA,Goalkeeper,22,True,24140.0,Rui Tiago Dantas da Silva,Granada
+Senegal (SEN),DIOUF Yehvann,Goalkeeper,1,True,24987.0,Yehvann Diouf,Stade de Reims
+Senegal (SEN),DIAW Mory,Goalkeeper,23,True,48502.0,Mory Diaw,Clermont Foot
+Senegal (SEN),MENDY Antoine,Defender,24,True,117109.0,Antoine Mendy,OGC Nice
+Spain (ESP),PORRO Pedro,Defender,12,True,11292.0,Pedro Antonio Porro Sauceda,Real Valladolid
+Spain (ESP),IGLESIAS Borja,Forward,26,True,11391.0,Borja Iglesias Quintas,Bayer Leverkusen
+Sweden (SWE),GUDMUNDSSON Gabriel,Defender,5,True,29594.0,Gabriel Gudmundsson,Lille
+Sweden (SWE),SVANBERG Mattias,Midfielder,19,True,15879.0,Mattias Svanberg,Wolfsburg
+Switzerland (SUI),MVOGO Yvon,Goalkeeper,12,True,11467.0,Yvon Landry Mvogo,Lorient
+Tunisia (TUN),GHARBI Ismael,Midfielder,11,True,105848.0,Ismaël Gharbi,Paris Saint-Germain
+Tunisia (TUN),KHEDIRA Rani,Midfielder,13,True,9402.0,Rani Khedira,Union Berlin
+Tunisia (TUN),VALERY Yan,Defender,20,True,22117.0,Yan Valery,Angers
+Türkiye (TUR),KABAK Ozan,Defender,15,True,20770.0,Ozan Muhammed Kabak,Hoffenheim

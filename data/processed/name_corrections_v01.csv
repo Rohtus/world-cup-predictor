@@ -1,0 +1,76 @@
+country,roster_name,roster_name_normalized,database_name,database_name_normalized,correction_type,notes
+Algeria (ALG),BOUDAOUI Hicham,boudaoui hicham,Hichem Boudaoui,hichem boudaoui,spelling/accent,manually proposed from roster/database country-level comparison; apply only if reviewed
+Argentina (ARG),GONZALEZ Nico,gonzalez nico,Nicolás Iván González,nicolas ivan gonzalez,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Austria (AUT),MWENE Phillip,mwene phillip,Philipp Mwene,philipp mwene,spelling,manually proposed from roster/database country-level comparison; apply only if reviewed
+Austria (AUT),SCHOEPF Alessandro,schoepf alessandro,Alessandro Schöpf,alessandro schopf,accent/transliteration,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),MARQUINHOS Marcos,marquinhos marcos,Marcos Aoás Corrêa,marcos aoas correa,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),CASEMIRO Carlos,casemiro carlos,Carlos Henrique Casimiro,carlos henrique casimiro,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),NEYMAR JR,neymar,Neymar da Silva Santos Junior,neymar da silva santos,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),RAPHINHA Raphael,raphinha raphael,Raphael Dias Belloli,raphael dias belloli,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),FABINHO Fabio,fabinho fabio,Fábio Henrique Tavares,fabio henrique tavares,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),DANILO SANTOS,danilo santos,Danilo Luiz da Silva,danilo luiz da silva,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),LUCAS PAQUETA,lucas paqueta,Lucas Tolentino Coelho de Lima,lucas tolentino coelho de lima,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Brazil (BRA),EDERSON Ederson,ederson ederson,Ederson Santana de Moraes,ederson santana de moraes,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Cabo Verde (CPV),VOZINHA Josimar,vozinha josimar,Josimar José Évora Dias,josimar jose evora dias,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Cabo Verde (CPV),DINEY BORGES,diney borges,Edilson Alberto Monteiro Sanches Borges,edilson alberto monteiro sanches borges,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Canada (CAN),OLUWASEYI Tani,oluwaseyi tani,Tanitoluwa Oluwaseyi,tanitoluwa oluwaseyi,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Congo DR (COD),ELIA Meschack,elia meschack,Meschak Elia,meschak elia,spelling/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Côte D'Ivoire (CIV),KOSSOUNOU Odilon,kossounou odilon,Odilon Kossonou,odilon kossonou,spelling,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),MOHAMED ELSHENAWY,mohamed elshenawy,Mohamed El Sayed Mohamed El Shenawy Gomaa,mohamed el sayed mohamed el shenawy gomaa,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),MOHAMED ABDELMONEIM,mohamed abdelmoneim,Mohamed Abdelmonem,mohamed abdelmonem,spelling,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),TREZEGUET Mahmoud,trezeguet mahmoud,Mahmoud Abdul Monem Abdelhamid Soliman,mahmoud abdul monem abdelhamid soliman,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),AHMED FATOUH,ahmed fatouh,Ahmed Mohamed Abo El Fotouh Mohamed,ahmed mohamed abo el fotouh mohamed,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),HAMDY FATHY,hamdy fathy,Hamdi Fathi,hamdi fathi,spelling,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),MOHANAD LASHIN,mohanad lashin,Mohanad Mostafa Lasheen,mohanad mostafa lasheen,spelling/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),MARAWAN ATTIA,marawan attia,Marwan Attia Fahim Ghallab,marwan attia fahim ghallab,spelling/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Egypt (EGY),ZIZO Ahmed,zizo ahmed,Ahmed Sayed,ahmed sayed,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+France (FRA),UPAMECANO Dayot,upamecano dayot,Dayotchanculle Upamecano,dayotchanculle upamecano,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+France (FRA),KANTE Ngolo,kante ngolo,N'Golo Kanté,n golo kante,punctuation/accent,manually proposed from roster/database country-level comparison; apply only if reviewed
+Germany (GER),RUEDIGER Antonio,ruediger antonio,Antonio Rüdiger,antonio rudiger,transliteration,manually proposed from roster/database country-level comparison; apply only if reviewed
+Germany (GER),GROSS Pascal,gross pascal,Pascal Groß,pascal gro,transliteration,manually proposed from roster/database country-level comparison; apply only if reviewed
+IR Iran (IRN),HAJISAFI Ehsan,hajisafi ehsan,Ehsan Hajsafi,ehsan hajsafi,spelling/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Japan (JPN),ITAKURA Kou,itakura kou,Ko Itakura,ko itakura,transliteration,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),KIM Seunggyu,kim seunggyu,Seung-Gyu Kim,seung gyu kim,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),KIM Minjae,kim minjae,Min Jae Kim,min jae kim,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),HWANG Inbeom,hwang inbeom,In-Beom Hwang,in beom hwang,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),SON Heungmin,son heungmin,Heung-Min Son,heung min son,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),PAIK Seungho,paik seungho,Seung-Ho Paik,seung ho paik,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),CHO Guesung,cho guesung,Gue-Sung Cho,gue sung cho,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),LEE Jaesung,lee jaesung,Jae-Sung Lee,jae sung lee,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),HWANG Heechan,hwang heechan,Hee-Chan Hwang,hee chan hwang,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),KIM Moonhwan,kim moonhwan,Moon-Hwan Kim,moon hwan kim,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),LEE Kangin,lee kangin,Kang-In Lee,kang in lee,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Korea Republic (KOR),JO Hyeonwoo,jo hyeonwoo,Hyeon-Woo Jo,hyeon woo jo,romanization/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Morocco (MAR),EL KHANNOUSS,el khannouss,Bilal El Khannous,bilal el khannous,spelling/short_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Panama (PAN),DAVIS Eric,davis eric,Erick Javier Davis Grajales,erick javier davis grajales,spelling/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Portugal (POR),VITINHA Vitor,vitinha vitor,Vitor Machado Ferreira,vitor machado ferreira,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Qatar (QAT),AHMED ALAAELDIN,ahmed alaaeldin,Ahmed Alaa Eldin Abdelmotaal,ahmed alaa eldin abdelmotaal,spacing/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Qatar (QAT),HASSAN ALHAYDOS,hassan alhaydos,Hassan Khalid Al Heidos,hassan khalid al heidos,transliteration/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),ABDULELAH ALAMRI,abdulelah alamri,Abdulelah Al Amri,abdulelah al amri,spacing/transliteration,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),HASSAN ALTAMBAKTI,hassan altambakti,Hassan Mohammed Al-Tambakti,hassan mohammed al tambakti,spacing/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),NASSER ALDAWSARI,nasser aldawsari,Nasser Al Dawsari,nasser al dawsari,spacing,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),FERAS ALBRIKAN,feras albrikan,Firas Tariq Nasser Al Albirakan,firas tariq nasser al albirakan,transliteration/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),SALEM ALDAWSARI,salem aldawsari,Salem Mohammed Al Dawsari,salem mohammed al dawsari,spacing/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),SALEH ALSHEHRI,saleh alshehri,Saleh Khalid Al Shehri,saleh khalid al shehri,spacing/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),SAUD ABDULHAMID,saud abdulhamid,Saud Abdullah Abdul Hamid,saud abdullah abdul hamid,spacing/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),MOHAMMED ALOWAIS,mohammed alowais,Mohammed Khalil Al Owais,mohammed khalil al owais,spacing/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Saudi Arabia (KSA),MOHAMED KANNO,mohamed kanno,Mohammed Kanoo,mohammed kanoo,spelling/transliteration,manually proposed from roster/database country-level comparison; apply only if reviewed
+Scotland (SCO),ROBERTSON Andy,robertson andy,Andrew Robertson,andrew robertson,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Scotland (SCO),McLEAN Kenny,mclean kenny,Kenneth McLean,kenneth mclean,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Senegal (SEN),GUEYE Idrissa,gueye idrissa,Idrissa Gana Gueye,idrissa gana gueye,order/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Spain (ESP),GRIMALDO Alex,grimaldo alex,Alejandro Grimaldo García,alejandro grimaldo garcia,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Spain (ESP),GAVI Pablo,gavi pablo,Pablo Martín Páez Gavira,pablo martin paez gavira,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Spain (ESP),OLMO Dani,olmo dani,Daniel Olmo Carvajal,daniel olmo carvajal,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Spain (ESP),BAENA Alex,baena alex,Alejandro Baena Rodríguez,alejandro baena rodriguez,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Spain (ESP),RODRI Rodrigo,rodri rodrigo,Rodrigo Hernández Cascante,rodrigo hernandez cascante,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Spain (ESP),WILLIAMS Nico,williams nico,Nicholas Williams Arthuer,nicholas williams arthuer,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Spain (ESP),PEDRI Pedro,pedri pedro,Pedro González López,pedro gonzalez lopez,nickname/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Switzerland (SUI),COEMERT Eray,coemert eray,Eray Ervin Cömert,eray ervin comert,transliteration/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Türkiye (TUR),BAYINDIR Altay,bayindir altay,Altay Bayındır,altay bay nd r,accent/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Türkiye (TUR),BARDAKCI Abdulkerim,bardakci abdulkerim,Abdülkerim Bardakcı,abdulkerim bardakc,accent/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+Türkiye (TUR),KADIOGLU Ferdi,kadioglu ferdi,Ferdi Erenay Kadıoğlu,ferdi erenay kad oglu,accent/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Türkiye (TUR),YILMAZ Baris,yilmaz baris,Barış Alper Yılmaz,bar s alper y lmaz,accent/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Türkiye (TUR),CAKIR Ugurcan,cakir ugurcan,Uğurcan Çakır,ugurcan cak r,accent/order,manually proposed from roster/database country-level comparison; apply only if reviewed
+USA (USA),TURNER Matt,turner matt,Matthew Charles Turner,matthew charles turner,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+USA (USA),SCALLY Joe,scally joe,Joseph Scally,joseph scally,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed
+Uruguay (URU),ARAUJO Maxi,araujo maxi,Maximiliano Javier Araújo Vilches,maximiliano javier araujo vilches,short_name/full_name,manually proposed from roster/database country-level comparison; apply only if reviewed

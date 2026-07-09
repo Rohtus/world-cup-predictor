@@ -4,132 +4,10 @@ WORLD CUP PREDICTOR 2026 — ROADMAP V1
 
 ROADMAP DE NOTEBOOKS V1
 
-11_international_data_inventory.ipynb
-
-Objetivo:
-Explorar qué competiciones internacionales están disponibles en los datos actuales.
-
-Preguntas:
-
-* ¿Qué torneos hay disponibles además de los Mundiales 2018 y 2022?
-* ¿Hay Copa América?
-* ¿Hay Eurocopa?
-* ¿Hay competiciones asiáticas o africanas?
-* ¿Qué años cubren?
-* ¿Qué datos tienen: events, matches, lineups?
-* ¿Qué torneos sirven para construir vectores recientes de jugadores?
-
-Output esperado:
-Una tabla de competiciones disponibles y una decisión documentada sobre cuáles usar para la Player Database V1.
-
----
-
-12_player_database_v01.ipynb
-
-Objetivo:
-Construir una base global de jugadores usando los torneos internacionales recientes disponibles.
-
-Input:
-Eventos de competiciones seleccionadas.
-
-Output:
-player_database_v01.csv
-
-La base debería incluir:
-
-* player_id
-* player_name
-* team_name / country
-* competition
-* season
-* event counts
-* vector agregado por jugador
-* cantidad de partidos disponibles
-* minutos o apariciones si están disponibles
-
-Propósito:
-Tener una representación más actual de jugadores que podrían participar en el Mundial 2026.
-
----
-
-13_roster_vector_v01.ipynb
-
-Objetivo:
-Construir vectores de selecciones actuales a partir de listas de jugadores.
-
-Input:
-
-* Lista de países
-* Lista de jugadores por país
-* player_database_v01.csv
-
-Proceso:
-
-* Buscar cada jugador en la database.
-* Agregar sus vectores.
-* Manejar jugadores faltantes.
-* Crear un vector agregado por selección.
-
-Output:
-roster_vector_v01.csv
-
-Preguntas clave:
-
-* ¿Qué hacemos con jugadores sin datos?
-* ¿Promediamos o sumamos?
-* ¿Ponderamos por apariciones?
-* ¿Cómo medimos cobertura del plantel?
-
----
-14_current_team_vector_v01.ipynb
-
-Aquí recién se decide:
-
-suma vs promedio
-weighting
-cobertura
-vector final por selección
-
----
-
-15_future_match_vector_v01.ipynb
-
-Objetivo
-Tomar dos Team Vectors actuales y construir exactamente el mismo espacio de features que espera Random Forest V03.
-Input:
-
-* home_team
-* away_team
-* roster/team vectors
-* modelo Random Forest V03
-
-Output esperado:
-
-predict_match("Argentina", "France")
-
-Resultado:
-
-home_win_probability
-draw_probability
-away_win_probability
-
-Propósito:
-Separar claramente la predicción de partidos de la simulación del torneo.
-
----
-
-16_monte_carlo_match_simulation.ipynb
-
-Objetivo:
-WORLD CUP PREDICTOR 2026 — ROADMAP V1
-
-==================================================
-
-ROADMAP DE NOTEBOOKS V1
-
 ✔ 11_competitions_eda.ipynb
 
 Objetivo:
+
 Explorar las competiciones internacionales disponibles en StatsBomb Open Data para definir cuáles serán utilizadas en la construcción de la base internacional de jugadores.
 
 Preguntas:
@@ -188,60 +66,118 @@ Resumen V1:
 
 --------------------------------------------------
 
-13_current_rosters_v01.ipynb
+✔ 13_current_roster_matching_v01.ipynb
 
 Objetivo:
 
-Construir la representación actual de las selecciones nacionales mediante el matching entre convocatorias actuales e International Player Database.
+Construir un pipeline reproducible para asociar los planteles actuales de las 48 selecciones clasificadas con la International Player Database.
 
 Input:
 
-* Lista de selecciones
-* Convocatorias actuales
+* current_rosters.csv
 * international_player_database_v01.csv
 
 Proceso:
 
-* Buscar cada jugador en la base.
-* Resolver diferencias de nombres.
-* Asociar cada jugador con su player_id.
-* Detectar jugadores faltantes.
-* Calcular cobertura de cada plantel.
+* Carga de planteles actuales.
+* Validación de planteles: 48 selecciones y 26 jugadores por equipo.
+* Normalización de nombres.
+* Estandarización de nombres de países.
+* Matching automático por nombre normalizado.
+* Matching adicional por token subset matching.
+* Análisis de cobertura.
+* Identificación de jugadores sin match automático.
+* Exportación de archivos auxiliares para revisión manual.
 
 Output:
 
-* current_rosters_v01.csv
-* roster_coverage_report.csv
+* unmatched_roster_players_v01.csv
+* player_database_names_v01.csv
 
-Preguntas clave:
+Resumen V1:
 
-* ¿Qué porcentaje del plantel posee datos?
-* ¿Qué jugadores no pudieron asociarse?
-* ¿Qué selecciones presentan menor cobertura?
+* 48 selecciones
+* 1248 jugadores actuales
+* Pipeline automático de matching implementado
+* Cobertura inicial aproximada: 40%
+* Jugadores sin match clasificados como posibles diferencias de nomenclatura o jugadores nuevos
+
+Nota:
+
+La notebook 13 se considera cerrada. El matching automático quedó documentado y los casos pendientes quedaron exportados para la etapa siguiente.
 
 --------------------------------------------------
 
-14_current_team_vector_v01.ipynb
+14_player_database_expansion_v01.ipynb
 
 Objetivo:
 
-Construir un vector representativo para cada selección nacional actual a partir de los jugadores encontrados.
+Expandir la International Player Database incorporando jugadores actuales que todavía no poseen historial dentro de la base V1.
 
 Input:
 
-* current_rosters_v01.csv
+* unmatched_roster_players_v01.csv
+* player_database_names_v01.csv
+* name_corrections_v01.csv
 * international_player_database_v01.csv
+
+Phase 1 — Manual Name Corrections and Final Matching:
+
+* Validar name_corrections_v01.csv.
+* Aplicar correcciones manuales de nombres.
+* Reejecutar el matching de planteles actuales.
+* Exportar el matching definitivo de planteles actuales.
+* Separar jugadores ya asociados de jugadores realmente nuevos.
+
+Output Phase 1:
+
+* current_roster_matching_v01.csv
+
+Phase 2 — Player Database Expansion:
+
+* Identificar jugadores actuales realmente nuevos.
+* Buscar competiciones compatibles en StatsBomb Open Data.
+* Construir nuevos Player Vectors para esos jugadores.
+* Integrar los nuevos vectores a la International Player Database.
+* Actualizar el roster matching utilizando la base expandida.
+
+Output Phase 2:
+
+* international_player_database_v02.csv
+* international_player_vectors_match_level_v02.csv
+* current_roster_matching_v02.csv
+
+Preguntas clave:
+
+* ¿Qué jugadores sin match son solo diferencias de nombres?
+* ¿Qué jugadores realmente no existen en la base V1?
+* ¿Qué competiciones recientes sirven para agregar historial útil?
+* ¿Cómo mantener consistencia entre la base original y la expandida?
+
+--------------------------------------------------
+
+15_current_team_vector_v01.ipynb
+
+Objetivo:
+
+Construir un Team Vector representativo para cada una de las 48 selecciones utilizando la International Player Database expandida.
+
+Input:
+
+* current_roster_matching_v02.csv
+* international_player_database_v02.csv
 
 Proceso:
 
-* Agregar vectores individuales.
-* Comparar distintas estrategias de agregación.
-* Evaluar cobertura efectiva.
+* Agregar Player Vectors por selección.
+* Comparar suma vs promedio.
+* Evaluar ponderación por apariciones.
+* Analizar cobertura efectiva.
 * Generar un único vector por selección.
 
 Output:
 
-current_team_vector_v01.csv
+* current_team_vector_v01.csv
 
 Preguntas clave:
 
@@ -252,7 +188,7 @@ Preguntas clave:
 
 --------------------------------------------------
 
-15_future_match_vector_v01.ipynb
+16_future_match_vector_v01.ipynb
 
 Objetivo:
 
@@ -275,13 +211,13 @@ Proceso:
 
 Output:
 
-future_match_vector_v01.csv
+* future_match_vector_v01.csv
 
 El resultado deberá ser estructuralmente equivalente al Match Vector utilizado durante el entrenamiento del modelo.
 
 --------------------------------------------------
 
-16_prediction_pipeline_v01.ipynb
+17_prediction_pipeline_v01.ipynb
 
 Objetivo:
 
@@ -310,7 +246,7 @@ Separar completamente la predicción de partidos de la simulación del torneo.
 
 --------------------------------------------------
 
-17_monte_carlo_match_simulation.ipynb
+18_monte_carlo_match_simulation.ipynb
 
 Objetivo:
 
@@ -324,11 +260,11 @@ Proceso:
 
 Output:
 
-Distribución simulada de resultados.
+* Distribución simulada de resultados.
 
 --------------------------------------------------
 
-18_group_stage_simulator_v01.ipynb
+19_group_stage_simulator_v01.ipynb
 
 Objetivo:
 
@@ -344,11 +280,11 @@ Proceso:
 
 Output:
 
-Tabla simulada del grupo.
+* Tabla simulada del grupo.
 
 --------------------------------------------------
 
-19_world_cup_simulator_v01.ipynb
+20_world_cup_simulator_v01.ipynb
 
 Objetivo:
 
@@ -363,11 +299,11 @@ Proceso:
 
 Output:
 
-Resultado completo de una simulación del torneo.
+* Resultado completo de una simulación del torneo.
 
 --------------------------------------------------
 
-20_tournament_statistics_v01.ipynb
+21_tournament_statistics_v01.ipynb
 
 Objetivo:
 
@@ -391,7 +327,7 @@ Ranking de probabilidades para cada selección:
 
 --------------------------------------------------
 
-21_visualizations_v01.ipynb
+22_visualizations_v01.ipynb
 
 Objetivo:
 

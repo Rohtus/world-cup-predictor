@@ -1,0 +1,1249 @@
+country,country_clean,roster_name,position,shirt_number,player_id,database_name,database_team,matched,match_method
+Algeria (ALG),Algeria,MASTIL Melvin,Goalkeeper,1,,,,False,unmatched
+Algeria (ALG),Algeria,MANDI Aissa,Defender,2,6648.0,Aïssa Mandi,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,ABADA Achref,Defender,3,,,,False,unmatched
+Algeria (ALG),Algeria,TOUGAI Mohamed,Defender,4,160943.0,Mohamed Amine Tougai,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,BELAID Zineddine,Defender,5,,,,False,unmatched
+Algeria (ALG),Algeria,ZERROUKI Ramiz,Midfielder,6,38345.0,Ramiz Larbi Zerrouki,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,MAHREZ Riyad,Forward,7,3814.0,Riyad Mahrez,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,AOUAR Houssem,Midfielder,8,4308.0,Houssem Aouar,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,GOUIRI Amine,Forward,9,,,,False,unmatched
+Algeria (ALG),Algeria,CHAIBI Fares,Midfielder,10,217047.0,Fares Chaïbi,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,HADJ MOUSSA,Forward,11,,,,False,unmatched
+Algeria (ALG),Algeria,BENBOUALI Nadhir,Forward,12,,,,False,unmatched
+Algeria (ALG),Algeria,HADJAM Jaouen,Defender,13,,,,False,unmatched
+Algeria (ALG),Algeria,Hichem Boudaoui,Midfielder,14,32015.0,Hichem Boudaoui,Algeria,True,exact_normalized_country
+Algeria (ALG),Algeria,AIT-NOURI Rayan,Defender,15,12111.0,Rayan Aït Nouri,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,BENBOT Oussama,Goalkeeper,16,,,,False,unmatched
+Algeria (ALG),Algeria,BELGHALI Ra,Defender,17,,,,False,unmatched
+Algeria (ALG),Algeria,AMOURA Mohamed,Forward,18,141358.0,Mohamed El Amine Amoura,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,BENTALEB Nabil,Midfielder,19,8520.0,Nabil Bentaleb,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,BOULBINA Adil,Forward,20,,,,False,unmatched
+Algeria (ALG),Algeria,BENSEBAINI Ramy,Defender,21,3191.0,Ramy Bensebaini,Algeria,True,token_subset_country
+Algeria (ALG),Algeria,MAZA Ibrahim,Midfielder,22,,,,False,unmatched
+Algeria (ALG),Algeria,ZIDANE Luca,Goalkeeper,23,,,,False,unmatched
+Algeria (ALG),Algeria,TITRAOUI Yassine,Midfielder,24,,,,False,unmatched
+Algeria (ALG),Algeria,GHEDJEMIS Fares,Forward,25,,,,False,unmatched
+Algeria (ALG),Algeria,CHERGUI Samir,Defender,26,,,,False,unmatched
+Argentina (ARG),Argentina,MUSSO Juan,Goalkeeper,1,,,,False,unmatched
+Argentina (ARG),Argentina,SENESI Marcos,Defender,2,,,,False,unmatched
+Argentina (ARG),Argentina,TAGLIAFICO Nicolas,Defender,3,5507.0,Nicolás Alejandro Tagliafico,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,MONTIEL Gonzalo,Defender,4,28263.0,Gonzalo Ariel Montiel,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,PAREDES Leandro,Midfielder,5,16308.0,Leandro Daniel Paredes,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,MARTINEZ Lisandro,Defender,6,27768.0,Lisandro Martínez,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,DE PAUL,Midfielder,7,7797.0,Rodrigo Javier De Paul,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,BARCO Valentin,Midfielder,8,,,,False,unmatched
+Argentina (ARG),Argentina,ALVAREZ Julian,Forward,9,29560.0,Julián Álvarez,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,MESSI Lionel,Forward,10,5503.0,Lionel Andrés Messi Cuccittini,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,LO CELSO,Midfielder,11,3313.0,Giovani Lo Celso,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,RULLI Geronimo,Goalkeeper,12,,,,False,unmatched
+Argentina (ARG),Argentina,ROMERO Cristian,Defender,13,20572.0,Cristian Gabriel Romero,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,PALACIOS Exequiel,Midfielder,14,28268.0,Exequiel Alejandro Palacios,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,Nicolás Iván González,Midfielder,15,20687.0,Nicolás Iván González,Argentina,True,exact_normalized_country
+Argentina (ARG),Argentina,ALMADA Thiago,Forward,16,28637.0,Thiago Ezequiel Almada,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,SIMEONE Giuliano,Forward,17,,,,False,unmatched
+Argentina (ARG),Argentina,PAZ Nico,Forward,18,,,,False,unmatched
+Argentina (ARG),Argentina,OTAMENDI Nicolas,Defender,19,3090.0,Nicolás Hernán Otamendi,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,MAC ALLISTER,Midfielder,20,27886.0,Alexis Mac Allister,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,LOPEZ Jose,Forward,21,,,,False,unmatched
+Argentina (ARG),Argentina,MARTINEZ Lautaro,Forward,22,11456.0,Lautaro Javier Martínez,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,MARTINEZ Emiliano,Goalkeeper,23,6909.0,Damián Emiliano Martínez,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,FERNANDEZ Enzo,Midfielder,24,38718.0,Enzo Fernandez,Argentina,True,token_subset_country
+Argentina (ARG),Argentina,MEDINA Facundo,Defender,25,,,,False,unmatched
+Argentina (ARG),Argentina,MOLINA Nahuel,Defender,26,29201.0,Nahuel Molina Lucero,Argentina,True,token_subset_country
+Australia (AUS),Australia,RYAN Mathew,Goalkeeper,1,3240.0,Mathew Ryan,Australia,True,token_subset_country
+Australia (AUS),Australia,DEGENEK Milos,Defender,2,15957.0,Miloš Degenek,Australia,True,token_subset_country
+Australia (AUS),Australia,CIRCATI Alessandro,Defender,3,,,,False,unmatched
+Australia (AUS),Australia,ITALIANO Jacob,Defender,4,,,,False,unmatched
+Australia (AUS),Australia,BOS Jordan,Defender,5,,,,False,unmatched
+Australia (AUS),Australia,GERIA Jason,Defender,6,,,,False,unmatched
+Australia (AUS),Australia,LECKIE Mathew,Forward,7,5481.0,Mathew Leckie,Australia,True,token_subset_country
+Australia (AUS),Australia,METCALFE Connor,Midfielder,8,,,,False,unmatched
+Australia (AUS),Australia,TOURE Mohamed,Forward,9,,,,False,unmatched
+Australia (AUS),Australia,HRUSTIC Ajdin,Forward,10,8859.0,Ajdin Hrustic,Australia,True,token_subset_country
+Australia (AUS),Australia,MABIL Awer,Forward,11,24475.0,Awer Denis Bul Mabil,Australia,True,token_subset_country
+Australia (AUS),Australia,IZZO Paul,Goalkeeper,12,,,,False,unmatched
+Australia (AUS),Australia,ONEILL Aiden,Midfielder,13,,,,False,unmatched
+Australia (AUS),Australia,DEVLIN Cameron,Midfielder,14,,,,False,unmatched
+Australia (AUS),Australia,TREWIN Kai,Defender,15,,,,False,unmatched
+Australia (AUS),Australia,BEHICH Aziz,Defender,16,5479.0,Aziz Eraltay Behich,Australia,True,token_subset_country
+Australia (AUS),Australia,IRANKUNDA Nestory,Forward,17,,,,False,unmatched
+Australia (AUS),Australia,BEACH Patrick,Goalkeeper,18,,,,False,unmatched
+Australia (AUS),Australia,SOUTTAR Harry,Defender,19,22293.0,Harry Souttar,Australia,True,token_subset_country
+Australia (AUS),Australia,VOLPATO Cristian,Forward,20,,,,False,unmatched
+Australia (AUS),Australia,BURGESS Cameron,Defender,21,,,,False,unmatched
+Australia (AUS),Australia,IRVINE Jackson,Midfielder,22,5490.0,Jackson Irvine,Australia,True,token_subset_country
+Australia (AUS),Australia,VELUPILLAY Nishan,Forward,23,,,,False,unmatched
+Australia (AUS),Australia,OKON-ENGSTLER Paul,Midfielder,24,,,,False,unmatched
+Australia (AUS),Australia,HERRINGTON Lucas,Defender,25,,,,False,unmatched
+Australia (AUS),Australia,YENGI Tete,Forward,26,,,,False,unmatched
+Austria (AUT),Austria,SCHLAGER Alexander,Goalkeeper,1,,,,False,unmatched
+Austria (AUT),Austria,AFFENGRUBER David,Defender,2,,,,False,unmatched
+Austria (AUT),Austria,DANSO Kevin,Defender,3,11820.0,Kevin Danso,Austria,True,token_subset_country
+Austria (AUT),Austria,SCHLAGER Xaver,Midfielder,4,8769.0,Xaver Schlager,Austria,True,token_subset_country
+Austria (AUT),Austria,POSCH Stefan,Defender,5,11821.0,Stefan Posch,Austria,True,token_subset_country
+Austria (AUT),Austria,SEIWALD Nicolas,Midfielder,6,39460.0,Nicolas Seiwald,Austria,True,token_subset_country
+Austria (AUT),Austria,ARNAUTOVIC Marko,Forward,7,3325.0,Marko Arnautović,Austria,True,token_subset_country
+Austria (AUT),Austria,ALABA David,Defender,8,8220.0,David Olatukunbo Alaba,Austria,True,token_subset_country
+Austria (AUT),Austria,SABITZER Marcel,Midfielder,9,8518.0,Marcel Sabitzer,Austria,True,token_subset_country
+Austria (AUT),Austria,GRILLITSCH Florian,Midfielder,10,11396.0,Florian Grillitsch,Austria,True,token_subset_country
+Austria (AUT),Austria,GREGORITSCH Michael,Forward,11,8309.0,Michael Gregoritsch,Austria,True,token_subset_country
+Austria (AUT),Austria,WIEGELE Florian,Goalkeeper,12,,,,False,unmatched
+Austria (AUT),Austria,PENTZ Patrick,Goalkeeper,13,9731.0,Patrick Pentz,Austria,True,token_subset_country
+Austria (AUT),Austria,KALAJDZIC Sasa,Forward,14,18762.0,Sasa Kalajdzic,Austria,True,token_subset_country
+Austria (AUT),Austria,LIENHART Philipp,Defender,15,8931.0,Philipp Lienhart,Austria,True,token_subset_country
+Austria (AUT),Austria,Philipp Mwene,Defender,16,13315.0,Philipp Mwene,Austria,True,exact_normalized_country
+Austria (AUT),Austria,CHUKWUEMEKA Carney,Midfielder,17,,,,False,unmatched
+Austria (AUT),Austria,SCHMID Romano,Midfielder,18,8784.0,Romano Schmid,Austria,True,token_subset_country
+Austria (AUT),Austria,LJUBICIC Dejan,Midfielder,19,,,,False,unmatched
+Austria (AUT),Austria,LAIMER Konrad,Midfielder,20,8506.0,Konrad Laimer,Austria,True,token_subset_country
+Austria (AUT),Austria,WIMMER Patrick,Forward,21,33297.0,Patrick Wimmer,Austria,True,token_subset_country
+Austria (AUT),Austria,PRASS Alexander,Midfielder,22,39545.0,Alexander Prass,Austria,True,token_subset_country
+Austria (AUT),Austria,FRIEDL Marco,Defender,23,,,,False,unmatched
+Austria (AUT),Austria,WANNER Paul,Midfielder,24,,,,False,unmatched
+Austria (AUT),Austria,SVOBODA Michael,Defender,25,,,,False,unmatched
+Austria (AUT),Austria,Alessandro Schöpf,Midfielder,26,11281.0,Alessandro Schöpf,Austria,True,exact_normalized_country
+Belgium (BEL),Belgium,COURTOIS Thibaut,Goalkeeper,1,3509.0,Thibaut Courtois,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,DEBAST Zeno,Defender,2,114832.0,Zeno Debast,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,THEATE Arthur,Defender,3,43913.0,Arthur Theate,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,MECHELE Brandon,Defender,4,,,,False,unmatched
+Belgium (BEL),Belgium,DE CUYPER,Defender,5,,,,False,unmatched
+Belgium (BEL),Belgium,WITSEL Axel,Midfielder,6,5642.0,Axel Witsel,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,DE BRUYNE,Midfielder,7,3089.0,Kevin De Bruyne,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,TIELEMANS Youri,Midfielder,8,2954.0,Youri Tielemans,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,LUKAKU Romelu,Forward,9,3289.0,Romelu Lukaku Menama,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,TROSSARD Leandro,Forward,10,16559.0,Leandro Trossard,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,DOKU Jeremy,Forward,11,23650.0,Jeremy Doku,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,LAMMENS Senne,Goalkeeper,12,,,,False,unmatched
+Belgium (BEL),Belgium,PENDERS Mike,Goalkeeper,13,,,,False,unmatched
+Belgium (BEL),Belgium,LUKEBAKIO Dodi,Forward,14,12306.0,Dodi Lukebakio,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,MEUNIER Thomas,Defender,15,3176.0,Thomas Meunier,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,DE WINTER,Defender,16,,,,False,unmatched
+Belgium (BEL),Belgium,DE KETELAERE,Forward,17,32688.0,Charles De Ketelaere,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,SEYS Joaquin,Defender,18,,,,False,unmatched
+Belgium (BEL),Belgium,MOREIRA Diego,Midfielder,19,,,,False,unmatched
+Belgium (BEL),Belgium,VANAKEN Hans,Midfielder,20,16281.0,Hans Vanaken,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,CASTAGNE Timothy,Defender,21,6989.0,Timothy Castagne,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,SAELEMAEKERS Alexis,Midfielder,22,,,,False,unmatched
+Belgium (BEL),Belgium,RASKIN Nicolas,Midfielder,23,,,,False,unmatched
+Belgium (BEL),Belgium,ONANA Amadou,Midfielder,24,48347.0,Amadou Onana,Belgium,True,token_subset_country
+Belgium (BEL),Belgium,NGOY Nathan,Defender,25,,,,False,unmatched
+Belgium (BEL),Belgium,FERNANDEZ-PARDO Matias,Forward,26,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,VASILJ Nikola,Goalkeeper,1,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,MUJAKIC Nihad,Defender,2,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,HADZIKADUNIC Dennis,Defender,3,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,MUHAREMOVIC Tarik,Defender,4,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,KOLASINAC Sead,Defender,5,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,TAHIROVIC Benjamin,Midfielder,6,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,DEDIC Amar,Defender,7,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,GIGOVIC Armin,Midfielder,8,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,BAZDAR Samed,Forward,9,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,DEMIROVIC Ermedin,Forward,10,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,DZEKO Edin,Forward,11,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,JURKAS Mladen,Goalkeeper,12,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,BASIC Ivan,Midfielder,13,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,SUNJIC Ivan,Midfielder,14,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,MEMIC Amar,Midfielder,15,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,HADZIAHMETOVIC Amir,Midfielder,16,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,BURNIC Dzenis,Midfielder,17,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,KATIC Nikola,Defender,18,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,ALAJBEGOVIC Kerim,Forward,19,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,BAJRAKTAREVIC Esmir,Forward,20,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,RADELJIC Stjepan,Defender,21,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,ZLOMISLIC Martin,Goalkeeper,22,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,TABAKOVIC Haris,Forward,23,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,MALIC Arjan,Defender,24,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,LUKIC Jovo,Forward,25,,,,False,unmatched
+Bosnia And Herzegovina (BIH),Bosnia And Herzegovina,MAHMIC Ermin,Midfielder,26,,,,False,unmatched
+Brazil (BRA),Brazil,ALISSON Álisson,Goalkeeper,1,5547.0,Alisson Ramsés Becker,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,EDERSON SILVA,Midfielder,2,27702.0,Éderson José dos Santos Lourenço da Silva,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,GABRIEL MAGALHAES,Defender,3,6406.0,Gabriel dos Santos Magalhães,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,Marcos Aoás Corrêa,Defender,4,4372.0,Marcos Aoás Corrêa,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,Carlos Henrique Casimiro,Midfielder,5,5539.0,Carlos Henrique Casimiro,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,ALEX SANDRO,Defender,6,6945.0,Alex Sandro Lobo Silva,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,VINICIUS JUNIOR,Forward,7,18395.0,Vinícius José Paixão de Oliveira Júnior,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,BRUNO GUIMARAES,Midfielder,8,25142.0,Bruno Guimarães Rodriguez Moura,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,MATHEUS CUNHA,Forward,9,,,,False,unmatched
+Brazil (BRA),Brazil,Neymar da Silva Santos Junior,Forward,10,4320.0,Neymar da Silva Santos Junior,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,Raphael Dias Belloli,Forward,11,10595.0,Raphael Dias Belloli,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,WEVERTON Weverton,Goalkeeper,12,25101.0,Weverton Pereira da Silva,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,DANILO Danilo,Defender,13,3063.0,Danilo Luiz da Silva,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,BREMER Gleison,Defender,14,11493.0,Gleison Bremer Silva Nascimento,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,LEO PEREIRA,Defender,15,,,,False,unmatched
+Brazil (BRA),Brazil,DOUGLAS SANTOS,Defender,16,,,,False,unmatched
+Brazil (BRA),Brazil,Fábio Henrique Tavares,Midfielder,17,3247.0,Fábio Henrique Tavares,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,Danilo Luiz da Silva,Midfielder,18,3063.0,Danilo Luiz da Silva,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,ENDRICK Endrick,Forward,19,271988.0,Endrick Felipe Moreira de Sousa,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,Lucas Tolentino Coelho de Lima,Midfielder,20,22600.0,Lucas Tolentino Coelho de Lima,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,LUIZ HENRIQUE,Forward,21,,,,False,unmatched
+Brazil (BRA),Brazil,GABRIEL MARTINELLI,Forward,22,29976.0,Gabriel Teodoro Martinelli Silva,Brazil,True,token_subset_country
+Brazil (BRA),Brazil,Ederson Santana de Moraes,Goalkeeper,23,3067.0,Ederson Santana de Moraes,Brazil,True,exact_normalized_country
+Brazil (BRA),Brazil,ROGER IBANEZ,Defender,24,,,,False,unmatched
+Brazil (BRA),Brazil,IGOR THIAGO,Forward,25,,,,False,unmatched
+Brazil (BRA),Brazil,RAYAN Rayan,Forward,26,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,Josimar José Évora Dias,Goalkeeper,1,105932.0,Josimar José Évora Dias,Cape Verde Islands,True,exact_normalized_country
+Cabo Verde (CPV),Cabo Verde,STOPIRA Ianique,Defender,2,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,Edilson Alberto Monteiro Sanches Borges,Defender,3,105931.0,Edilson Alberto Monteiro Sanches Borges,Cape Verde Islands,True,exact_normalized_country
+Cabo Verde (CPV),Cabo Verde,PICO LOPES,Defender,4,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,LOGAN COSTA,Defender,5,45557.0,Logan Costa,Cape Verde Islands,True,exact_normalized_country
+Cabo Verde (CPV),Cabo Verde,KEVIN PINA,Midfielder,6,132800.0,Kevin Lenini Gonçalves Pereira de Pina,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,JOVANE CABRAL,Midfielder,7,10598.0,Jovane Eduardo Borges Cabral,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,JOAO PAULO,Midfielder,8,133038.0,João Paulo Moreira Fernandes,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,GILSON BENCHIMOL,Forward,9,105936.0,Gilson Benchimol Tavares,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,JAMIRO MONTEIRO,Midfielder,10,7753.0,Jamiro Gregory Monteiro Alvarenga,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,GARRY RODRIGUES,Midfielder,11,16001.0,Garry Mendes Rodrigues,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,MARCIO ROSA,Goalkeeper,12,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,SIDNY LOPES,Defender,13,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,DEROY DUARTE,Midfielder,14,8349.0,Deroy Duarte,Cape Verde Islands,True,exact_normalized_country
+Cabo Verde (CPV),Cabo Verde,LAROS DUARTE,Midfielder,15,21173.0,Laros Duarte,Cape Verde Islands,True,exact_normalized_country
+Cabo Verde (CPV),Cabo Verde,YANNICK SEMEDO,Midfielder,16,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,WILLY SEMEDO,Midfielder,17,28413.0,Willy Afonso Semedo Johnson,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,TELMO ARCANJO,Midfielder,18,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,DAILON LIVRAMENTO,Forward,19,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,RYAN MENDES,Forward,20,40485.0,Ryan Isaac Mendes da Graça,Cape Verde Islands,True,token_subset_country
+Cabo Verde (CPV),Cabo Verde,NUNO DA,Midfielder,21,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,STEVEN MOREIRA,Defender,22,7197.0,Steven Moreira,Cape Verde Islands,True,exact_normalized_country
+Cabo Verde (CPV),Cabo Verde,CJ DOS,Goalkeeper,23,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,WAGNER PINA,Defender,24,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,KELVIN PIRES,Defender,25,,,,False,unmatched
+Cabo Verde (CPV),Cabo Verde,HELIO VARELA,Midfielder,26,,,,False,unmatched
+Canada (CAN),Canada,ST. CLAIR,Goalkeeper,1,36794.0,Dayne Tristan St. Clair,Canada,True,token_subset_country
+Canada (CAN),Canada,JOHNSTON Alistair,Defender,2,44703.0,Alistair Johnston,Canada,True,token_subset_country
+Canada (CAN),Canada,JONES Al,Defender,3,,,,False,unmatched
+Canada (CAN),Canada,DE FOUGEROLLES,Defender,4,133189.0,Luc Rollet De Fougerolles,Canada,True,token_subset_country
+Canada (CAN),Canada,WATERMAN Joel,Defender,5,,,,False,unmatched
+Canada (CAN),Canada,CHOINIERE Mathieu,Midfielder,6,18639.0,Mathieu Choiniere,Canada,True,token_subset_country
+Canada (CAN),Canada,EUSTAQUIO Stephen,Midfielder,7,11187.0,Stephen Antunes Eustáquio,Canada,True,token_subset_country
+Canada (CAN),Canada,KONE Ismael,Midfielder,8,133229.0,Ismael Koné,Canada,True,token_subset_country
+Canada (CAN),Canada,LARIN Cyle,Forward,9,16459.0,Cyle Larin,Canada,True,token_subset_country
+Canada (CAN),Canada,DAVID Jonathan,Forward,10,23640.0,Jonathan David,Canada,True,token_subset_country
+Canada (CAN),Canada,MILLAR Liam,Midfielder,11,23363.0,Liam Millar,Canada,True,token_subset_country
+Canada (CAN),Canada,Tanitoluwa Oluwaseyi,Forward,12,224603.0,Tanitoluwa Oluwaseyi,Canada,True,exact_normalized_country
+Canada (CAN),Canada,CORNELIUS Derek,Defender,13,23760.0,Derek Cornelius,Canada,True,token_subset_country
+Canada (CAN),Canada,SHAFFELBURG Jacob,Midfielder,14,26152.0,Jacob Shaffelburg,Canada,True,token_subset_country
+Canada (CAN),Canada,BOMBITO Moise,Defender,15,383250.0,Moise Bombito,Canada,True,token_subset_country
+Canada (CAN),Canada,CREPEAU Maxime,Goalkeeper,16,23758.0,Maxime Crépeau,Canada,True,token_subset_country
+Canada (CAN),Canada,BUCHANAN Tajon,Forward,17,24024.0,Tajon Buchanan,Canada,True,token_subset_country
+Canada (CAN),Canada,GOODMAN Owen,Goalkeeper,18,,,,False,unmatched
+Canada (CAN),Canada,DAVIES Alphonso,Defender,19,12365.0,Alphonso Davies,Canada,True,token_subset_country
+Canada (CAN),Canada,AHMED Ali,Forward,20,224628.0,Ali Ahmed,Canada,True,token_subset_country
+Canada (CAN),Canada,OSORIO Jonathan,Midfielder,21,12770.0,Jonathan Osorio,Canada,True,token_subset_country
+Canada (CAN),Canada,LARYEA Richie,Defender,22,16120.0,Richie Laryea,Canada,True,token_subset_country
+Canada (CAN),Canada,SIGUR Niko,Defender,23,,,,False,unmatched
+Canada (CAN),Canada,DAVID Promise,Forward,24,,,,False,unmatched
+Canada (CAN),Canada,SALIBA Nathan,Midfielder,25,,,,False,unmatched
+Canada (CAN),Canada,NELSON Jayden,Forward,26,,,,False,unmatched
+Colombia (COL),Colombia,OSPINA David,Goalkeeper,1,4276.0,David Ospina Ramírez,Colombia,True,token_subset_country
+Colombia (COL),Colombia,MUNOZ Daniel,Defender,2,27423.0,Daniel Muñoz Mejía,Colombia,True,token_subset_country
+Colombia (COL),Colombia,LUCUMI Jhon,Defender,3,18855.0,Jhon Janer Lucumí Bonilla,Colombia,True,token_subset_country
+Colombia (COL),Colombia,ARIAS Santiago,Defender,4,5696.0,Santiago Arias Naranjo,Colombia,True,token_subset_country
+Colombia (COL),Colombia,CASTANO Kevin,Midfielder,5,60138.0,Kevin Duvan Castaño Gil,Colombia,True,token_subset_country
+Colombia (COL),Colombia,RIOS Richard,Midfielder,6,49395.0,Richard Rios Montoya,Colombia,True,token_subset_country
+Colombia (COL),Colombia,DIAZ Luis,Forward,7,27158.0,Luis Fernando Díaz Marulanda,Colombia,True,token_subset_country
+Colombia (COL),Colombia,CARRASCAL Jorge,Midfielder,8,28723.0,Jorge Andrés Carrascal Guardo,Colombia,True,token_subset_country
+Colombia (COL),Colombia,CORDOBA Jhon,Forward,9,8817.0,Jhon Andrés Córdoba Copete,Colombia,True,token_subset_country
+Colombia (COL),Colombia,RODRIGUEZ James,Midfielder,10,5695.0,James David Rodríguez Rubio,Colombia,True,token_subset_country
+Colombia (COL),Colombia,ARIAS Jhon,Midfielder,11,27277.0,Jhon Adolfo Arias Andrade,Colombia,True,token_subset_country
+Colombia (COL),Colombia,VARGAS Camilo,Goalkeeper,12,27225.0,Camilo Andrés Vargas Gil,Colombia,True,token_subset_country
+Colombia (COL),Colombia,MINA Yerry,Defender,13,6196.0,Yerry Fernando Mina González,Colombia,True,token_subset_country
+Colombia (COL),Colombia,PUERTA Gustavo,Defender,14,,,,False,unmatched
+Colombia (COL),Colombia,PORTILLA Juan,Midfielder,15,,,,False,unmatched
+Colombia (COL),Colombia,LERMA Jefferson,Midfielder,16,5678.0,Jefferson Andrés Lerma Solís,Colombia,True,token_subset_country
+Colombia (COL),Colombia,MOJICA Johan,Defender,17,5691.0,Johan Andrés Mojica Palacio,Colombia,True,token_subset_country
+Colombia (COL),Colombia,DITTA Willer,Defender,18,,,,False,unmatched
+Colombia (COL),Colombia,HERNANDEZ Cucho,Forward,19,,,,False,unmatched
+Colombia (COL),Colombia,QUINTERO Juan,Midfielder,20,5692.0,Juan Fernando Quintero Paniagua,Colombia,True,token_subset_country
+Colombia (COL),Colombia,CAMPAZ Jaminton,Forward,21,,,,False,unmatched
+Colombia (COL),Colombia,MACHADO Deiver,Defender,22,27473.0,Deiver Andrés Machado Mena,Colombia,True,token_subset_country
+Colombia (COL),Colombia,SANCHEZ Davinson,Defender,23,3494.0,Davinson Sánchez Mina,Colombia,True,token_subset_country
+Colombia (COL),Colombia,MONTERO Alvaro,Goalkeeper,24,,,,False,unmatched
+Colombia (COL),Colombia,SUAREZ Luis,Forward,25,,,,False,unmatched
+Colombia (COL),Colombia,GOMEZ Andres,Forward,26,,,,False,unmatched
+Congo DR (COD),Congo DR,MPASI Lionel,Goalkeeper,1,35413.0,Lionel Mpasi-Nzau,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,WAN-BISSAKA Aaron,Defender,2,,,,False,unmatched
+Congo DR (COD),Congo DR,KAPUADI Steve,Defender,3,,,,False,unmatched
+Congo DR (COD),Congo DR,TUANZEBE Axel,Defender,4,,,,False,unmatched
+Congo DR (COD),Congo DR,BATUBINSIKA Dylan,Defender,5,24105.0,Dylan Batubinsika,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,MUKAU Ngalayel,Midfielder,6,,,,False,unmatched
+Congo DR (COD),Congo DR,MBUKU Nathanael,Midfielder,7,,,,False,unmatched
+Congo DR (COD),Congo DR,MOUTOUSSAMY Samuel,Midfielder,8,4412.0,Samuel Moutoussamy,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,CIPENGA Brian,Forward,9,,,,False,unmatched
+Congo DR (COD),Congo DR,BONGONDA Theo,Midfielder,10,23785.0,Théo Bongonda Mbul'Ofeko Batombo,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,KAKUTA Gael,Forward,11,3130.0,Gaël Kakuta,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,KAYEMBE Joris,Defender,12,4939.0,Joris Kayembe Ditu,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,Meschak Elia,Forward,13,35684.0,Meschak Elia,Congo DR,True,exact_normalized_country
+Congo DR (COD),Congo DR,SADIKI Noah,Midfielder,14,,,,False,unmatched
+Congo DR (COD),Congo DR,TSHIBOLA Aaron,Midfielder,15,4753.0,Aaron Tshibola,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,FAYULU Timothy,Goalkeeper,16,,,,False,unmatched
+Congo DR (COD),Congo DR,BAKAMBU Cedric,Forward,17,6862.0,Cédric Bakambu,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,PICKEL Charles,Midfielder,18,28415.0,Charles Pickel,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,MAYELE Fiston,Forward,19,389291.0,Fiston Kalala Mayele,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,WISSA Yoane,Forward,20,7294.0,Yoane Wissa,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,EPOLO Matthieu,Goalkeeper,21,,,,False,unmatched
+Congo DR (COD),Congo DR,MBEMBA Chancel,Defender,22,3044.0,Chancel Mbemba Mangulu,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,BANZA Simon,Forward,23,24826.0,Simon Bokote Banza,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,KALULU Gedeon,Defender,24,30193.0,Gedeon Kalulu Kyatengwa,Congo DR,True,token_subset_country
+Congo DR (COD),Congo DR,KAYEMBE Edo,Midfielder,25,,,,False,unmatched
+Congo DR (COD),Congo DR,MASUAKU Arthur,Defender,26,3587.0,Arthur Masuaku,Congo DR,True,token_subset_country
+Croatia (CRO),Croatia,LIVAKOVIC Dominik,Goalkeeper,1,16531.0,Dominik Livaković,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,STANISIC Josip,Defender,2,49337.0,Josip Stanišić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,PONGRACIC Marin,Defender,3,8773.0,Marin Pongracic,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,GVARDIOL Josko,Defender,4,33018.0,Joško Gvardiol,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,CALETA-CAR Duje,Defender,5,6307.0,Duje Ćaleta-Car,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,SUTALO Josip,Defender,6,37148.0,Josip Šutalo,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,MORO Nikola,Midfielder,7,,,,False,unmatched
+Croatia (CRO),Croatia,KOVACIC Mateo,Midfielder,8,5456.0,Mateo Kovačić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,KRAMARIC Andrej,Forward,9,5460.0,Andrej Kramarić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,MODRIC Luka,Midfielder,10,5463.0,Luka Modrić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,BUDIMIR Ante,Forward,11,8654.0,Ante Budimir,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,PANDUR Ivor,Goalkeeper,12,,,,False,unmatched
+Croatia (CRO),Croatia,VLASIC Nikola,Midfielder,13,3441.0,Nikola Vlašić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,PERISIC Ivan,Forward,14,5474.0,Ivan Perišić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,PASALIC Mario,Midfielder,15,11603.0,Mario Pašalić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,BATURINA Martin,Midfielder,16,63505.0,Martin Baturina,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,SUCIC Petar,Midfielder,17,,,,False,unmatched
+Croatia (CRO),Croatia,JAKIC Kristijan,Defender,18,,,,False,unmatched
+Croatia (CRO),Croatia,FRUK Toni,Midfielder,19,,,,False,unmatched
+Croatia (CRO),Croatia,MATANOVIC Igor,Forward,20,,,,False,unmatched
+Croatia (CRO),Croatia,SUCIC Luka,Midfielder,21,39490.0,Luka Sučić,Croatia,True,token_subset_country
+Croatia (CRO),Croatia,VUSKOVIC Luka,Defender,22,,,,False,unmatched
+Croatia (CRO),Croatia,KOTARSKI Dominik,Goalkeeper,23,,,,False,unmatched
+Croatia (CRO),Croatia,PASALIC Marco,Forward,24,,,,False,unmatched
+Croatia (CRO),Croatia,ERLIC Martin,Defender,25,,,,False,unmatched
+Croatia (CRO),Croatia,MUSA Petar,Forward,26,,,,False,unmatched
+Curaçao (CUW),Curaçao,ROOM Eloy,Goalkeeper,1,,,,False,unmatched
+Curaçao (CUW),Curaçao,SAMBO Shurandy,Defender,2,,,,False,unmatched
+Curaçao (CUW),Curaçao,GAARI Jurien,Defender,3,,,,False,unmatched
+Curaçao (CUW),Curaçao,VAN EIJMA,Defender,4,,,,False,unmatched
+Curaçao (CUW),Curaçao,FLORANUS Sherel,Defender,5,,,,False,unmatched
+Curaçao (CUW),Curaçao,ROEMERATOE Godfried,Midfielder,6,,,,False,unmatched
+Curaçao (CUW),Curaçao,BACUNA Juninho,Midfielder,7,,,,False,unmatched
+Curaçao (CUW),Curaçao,COMENENCIA Livano,Midfielder,8,,,,False,unmatched
+Curaçao (CUW),Curaçao,LOCADIA Juergen,Forward,9,,,,False,unmatched
+Curaçao (CUW),Curaçao,BACUNA Leandro,Midfielder,10,,,,False,unmatched
+Curaçao (CUW),Curaçao,ANTONISSE Jeremy,Forward,11,,,,False,unmatched
+Curaçao (CUW),Curaçao,HANSEN Sontje,Forward,12,,,,False,unmatched
+Curaçao (CUW),Curaçao,NOSLIN Tyrese,Forward,13,,,,False,unmatched
+Curaçao (CUW),Curaçao,GORRE Kenji,Forward,14,,,,False,unmatched
+Curaçao (CUW),Curaçao,MARTHA Arjany,Midfielder,15,,,,False,unmatched
+Curaçao (CUW),Curaçao,MARGARITHA Jearl,Forward,16,,,,False,unmatched
+Curaçao (CUW),Curaçao,KUWAS Brandley,Forward,17,,,,False,unmatched
+Curaçao (CUW),Curaçao,OBISPO Armando,Defender,18,,,,False,unmatched
+Curaçao (CUW),Curaçao,KASTANEER Gervane,Forward,19,,,,False,unmatched
+Curaçao (CUW),Curaçao,BRENET Joshua,Defender,20,,,,False,unmatched
+Curaçao (CUW),Curaçao,CHONG Tahith,Midfielder,21,,,,False,unmatched
+Curaçao (CUW),Curaçao,FELIDA Kevin,Midfielder,22,,,,False,unmatched
+Curaçao (CUW),Curaçao,BAZOER Riechedly,Defender,23,,,,False,unmatched
+Curaçao (CUW),Curaçao,FONVILLE Deveron,Defender,24,,,,False,unmatched
+Curaçao (CUW),Curaçao,BODAK Tyrick,Goalkeeper,25,,,,False,unmatched
+Curaçao (CUW),Curaçao,DOORNBUSCH Trevor,Goalkeeper,26,,,,False,unmatched
+Czechia (CZE),Czechia,KOVAR Matej,Goalkeeper,1,46046.0,Matěj Kovář,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,ZIMA David,Defender,2,,,,False,unmatched
+Czechia (CZE),Czechia,HOLES Tomas,Defender,3,16469.0,Tomáš Holeš,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,HRANAC Robin,Defender,4,81330.0,Robin Hranáč,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,COUFAL Vladimir,Defender,5,16570.0,Vladimír Coufal,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,CHALOUPEK Stepan,Defender,6,,,,False,unmatched
+Czechia (CZE),Czechia,KREJCI Ladislav,Defender,7,28272.0,Ladislav Krejčí,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,DARIDA Vladimir,Midfielder,8,8579.0,Vladimír Darida,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,HLOZEK Adam,Forward,9,28239.0,Adam Hložek,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,SCHICK Patrik,Forward,10,7044.0,Patrik Schick,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,KUCHTA Jan,Forward,11,29484.0,Jan Kuchta,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,CERV Lukas,Midfielder,12,39338.0,Lukáš Červ,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,CHYTIL Mojmir,Forward,13,32985.0,Mojmír Chytil,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,JURASEK David,Defender,14,134272.0,David Jurásek,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,SULC Pavel,Forward,15,28227.0,Pavel Šulc,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,STANEK Jindrich,Goalkeeper,16,28040.0,Jindřich Staněk,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,PROVOD Lukas,Midfielder,17,28034.0,Lukáš Provod,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,SADILEK Michal,Midfielder,18,22026.0,Michal Sadílek,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,CHORY Tomas,Forward,19,21226.0,Tomáš Chorý,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,ZELENY Jaroslav,Defender,20,,,,False,unmatched
+Czechia (CZE),Czechia,DOUDERA David,Defender,21,35441.0,David Doudera,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,SOUCEK Tomas,Midfielder,22,4870.0,Tomáš Souček,Czech Republic,True,token_subset_country
+Czechia (CZE),Czechia,HORNICEK Lukas,Goalkeeper,23,,,,False,unmatched
+Czechia (CZE),Czechia,SOJKA Alexandr,Midfielder,24,,,,False,unmatched
+Czechia (CZE),Czechia,SOCHUREK Hugo,Midfielder,25,,,,False,unmatched
+Czechia (CZE),Czechia,VISINSKY Denis,Forward,26,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,FOFANA Yahia,Goalkeeper,1,36629.0,Yahia Fofana,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,DIOMANDE Ousmane,Defender,2,196109.0,Ousmane Diomande,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,KONAN Ghislain,Defender,3,10039.0,Ghislain Konan,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,SERI Jean,Midfielder,4,3359.0,Jean Michaël Seri,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,SINGO Wilfried,Defender,5,36539.0,Wilfried Stephane Singo,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,FOFANA Seko,Midfielder,6,7791.0,Seko Fofana,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,Odilon Kossonou,Defender,7,27133.0,Odilon Kossonou,Côte d'Ivoire,True,exact_normalized_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,KESSIE Franck,Midfielder,8,7023.0,Franck Yannick Kessié,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,BONNY Ange-Yoan,Forward,9,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,ADINGRA Simon,Forward,10,105392.0,Simon Adingra,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,DIOMANDE Yan,Forward,11,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,WAHI Elye,Forward,12,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,OPERI Christopher,Defender,13,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,DIAKITE Oumar,Forward,14,212489.0,Oumar Diakité,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,DIALLO Amad,Forward,15,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,KONE Mohamed,Goalkeeper,16,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,DOUE Guela,Defender,17,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,SANGARE Ibrahim,Midfielder,18,3017.0,Ibrahim Sangaré,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,PEPE Nicolas,Forward,19,3013.0,Nicolas Pépé,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,AGBADOU Emmanuel,Defender,20,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,NDICKA Evan,Defender,21,7713.0,Obite Evan Ndicka,Côte d'Ivoire,True,token_subset_country
+Côte D'Ivoire (CIV),Côte D'Ivoire,GUESSAND Evann,Forward,22,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,LAFONT Alban,Goalkeeper,23,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,TOURE Bazoumana,Forward,24,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,GUIAGON Parfait,Midfielder,25,,,,False,unmatched
+Côte D'Ivoire (CIV),Côte D'Ivoire,OULAI Christ,Midfielder,26,,,,False,unmatched
+Ecuador (ECU),Ecuador,GALINDEZ Hernan,Goalkeeper,1,37522.0,Hernán Ismael Galíndez,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,TORRES Felix,Defender,2,30111.0,Felix Eduardo Torres Caicedo,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,HINCAPIE Piero,Defender,3,38004.0,Piero Martín Hincapié Reyna,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,ORDONEZ Joel,Defender,4,,,,False,unmatched
+Ecuador (ECU),Ecuador,ALCIVAR Jordy,Midfielder,5,,,,False,unmatched
+Ecuador (ECU),Ecuador,PACHO Willian,Defender,6,41593.0,Willian Joel Pacho Tenorio,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,ESTUPINAN Pervis,Defender,7,24085.0,Pervis Josué Estupiñán Tenorio,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,VALENCIA Anthony,Midfielder,8,,,,False,unmatched
+Ecuador (ECU),Ecuador,YEBOAH John,Forward,9,21131.0,John Yeboah Zamora,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,PAEZ Kendry,Midfielder,10,384888.0,Ray Kendry Páez Andrade,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,RODRIGUEZ Kevin,Forward,11,348757.0,Kevin José Rodríguez Cortez,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,RAMIREZ Moises,Goalkeeper,12,,,,False,unmatched
+Ecuador (ECU),Ecuador,VALENCIA Enner,Forward,13,28559.0,Enner Remberto Valencia Lastra,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,MINDA Alan,Midfielder,14,123625.0,Alan Steve Minda García,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,VITE Pedro,Midfielder,15,,,,False,unmatched
+Ecuador (ECU),Ecuador,CAICEDO Jordy,Forward,16,123554.0,Jordy Josué Caicedo Medina,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,PRECIADO Angelo,Defender,17,37737.0,Angelo Smit Preciado Quiñónez,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,CASTILLO Denil,Midfielder,18,,,,False,unmatched
+Ecuador (ECU),Ecuador,PLATA Gonzalo,Forward,19,31152.0,Gonzalo Jordy Plata Jiménez,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,ANGULO Nilson,Forward,20,,,,False,unmatched
+Ecuador (ECU),Ecuador,FRANCO Alan,Midfielder,21,37945.0,Alan Steven Franco Palma,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,VALLE Gonzalo,Goalkeeper,22,,,,False,unmatched
+Ecuador (ECU),Ecuador,CAICEDO Moises,Midfielder,23,37726.0,Moisés Isaac Caicedo Corozo,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,AREVALO Jeremy,Forward,24,,,,False,unmatched
+Ecuador (ECU),Ecuador,POROZO Jackson,Defender,25,51969.0,Jackson Gabriel Porozo Vernaza,Ecuador,True,token_subset_country
+Ecuador (ECU),Ecuador,MEDINA Yaimar,Defender,26,,,,False,unmatched
+Egypt (EGY),Egypt,Mohamed El Sayed Mohamed El Shenawy Gomaa,Goalkeeper,1,5265.0,Mohamed El Sayed Mohamed El Shenawy Gomaa,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,YASSER IBRAHIM,Defender,2,,,,False,unmatched
+Egypt (EGY),Egypt,MOHAMED HANY,Defender,3,66892.0,Mohamed Hany Gamal Eldemerdash,Egypt,True,token_subset_country
+Egypt (EGY),Egypt,HOSSAM ABDELMAGUID,Defender,4,,,,False,unmatched
+Egypt (EGY),Egypt,RAMY RABIA,Defender,5,,,,False,unmatched
+Egypt (EGY),Egypt,Mohamed Abdelmonem,Defender,6,69563.0,Mohamed Abdelmonem,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,Mahmoud Abdul Monem Abdelhamid Soliman,Forward,7,5257.0,Mahmoud Abdul Monem Abdelhamid Soliman,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,EMAM ASHOUR,Midfielder,8,67742.0,Emam Ashour Metwally Abdelghany,Egypt,True,token_subset_country
+Egypt (EGY),Egypt,HAMZA ABDELKARIM,Forward,9,,,,False,unmatched
+Egypt (EGY),Egypt,MOHAMED SALAH,Forward,10,3531.0,Mohamed Salah,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,MOSTAFA ZICO,Midfielder,11,,,,False,unmatched
+Egypt (EGY),Egypt,HAISSEM HASSAN,Forward,12,,,,False,unmatched
+Egypt (EGY),Egypt,Ahmed Mohamed Abo El Fotouh Mohamed,Defender,13,67737.0,Ahmed Mohamed Abo El Fotouh Mohamed,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,Hamdi Fathi,Midfielder,14,66887.0,Hamdi Fathi,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,KARIM HAFEZ,Defender,15,,,,False,unmatched
+Egypt (EGY),Egypt,MAHDY SOLIMAN,Goalkeeper,16,,,,False,unmatched
+Egypt (EGY),Egypt,Mohanad Mostafa Lasheen,Midfielder,17,70464.0,Mohanad Mostafa Lasheen,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,NABIL DONGA,Midfielder,18,,,,False,unmatched
+Egypt (EGY),Egypt,Marwan Attia Fahim Ghallab,Midfielder,19,70682.0,Marwan Attia Fahim Ghallab,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,IBRAHIM ADEL,Forward,20,,,,False,unmatched
+Egypt (EGY),Egypt,MAHMOUD SABER,Midfielder,21,,,,False,unmatched
+Egypt (EGY),Egypt,OMAR MARMOUSH,Forward,22,40761.0,Omar Marmoush,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,MOSTAFA SHOUBIR,Goalkeeper,23,,,,False,unmatched
+Egypt (EGY),Egypt,TAREK ALAA,Defender,24,,,,False,unmatched
+Egypt (EGY),Egypt,Ahmed Sayed,Forward,25,66878.0,Ahmed Sayed,Egypt,True,exact_normalized_country
+Egypt (EGY),Egypt,MOHAMED ALAA,Goalkeeper,26,,,,False,unmatched
+England (ENG),England,PICKFORD Jordan,Goalkeeper,1,3468.0,Jordan Pickford,England,True,token_subset_country
+England (ENG),England,KONSA Ezri,Defender,2,3822.0,Ezri Konsa Ngoyo,England,True,token_subset_country
+England (ENG),England,OREILLY Nico,Defender,3,,,,False,unmatched
+England (ENG),England,RICE Declan,Midfielder,4,3943.0,Declan Rice,England,True,token_subset_country
+England (ENG),England,STONES John,Defender,5,3244.0,John Stones,England,True,token_subset_country
+England (ENG),England,GUEHI Marc,Defender,6,34526.0,Marc Guehi,England,True,token_subset_country
+England (ENG),England,SAKA Bukayo,Forward,7,22084.0,Bukayo Saka,England,True,token_subset_country
+England (ENG),England,ANDERSON Elliot,Midfielder,8,,,,False,unmatched
+England (ENG),England,KANE Harry,Forward,9,10955.0,Harry Kane,England,True,token_subset_country
+England (ENG),England,BELLINGHAM Jude,Midfielder,10,30714.0,Jude Bellingham,England,True,token_subset_country
+England (ENG),England,RASHFORD Marcus,Forward,11,3318.0,Marcus Rashford,England,True,token_subset_country
+England (ENG),England,CHALOBAH Trevoh,Defender,12,,,,False,unmatched
+England (ENG),England,HENDERSON Dean,Goalkeeper,13,,,,False,unmatched
+England (ENG),England,HENDERSON Jordan,Midfielder,14,3532.0,Jordan Brian Henderson,England,True,token_subset_country
+England (ENG),England,BURN Dan,Defender,15,,,,False,unmatched
+England (ENG),England,MAINOO Kobbie,Midfielder,16,99174.0,Kobbie Mainoo,England,True,token_subset_country
+England (ENG),England,ROGERS Morgan,Midfielder,17,,,,False,unmatched
+England (ENG),England,GORDON Anthony,Forward,18,28104.0,Anthony Gordon,England,True,token_subset_country
+England (ENG),England,WATKINS Ollie,Forward,19,4760.0,Ollie Watkins,England,True,token_subset_country
+England (ENG),England,MADUEKE Noni,Forward,20,,,,False,unmatched
+England (ENG),England,EZE Eberechi,Midfielder,21,9000.0,Eberechi Eze,England,True,token_subset_country
+England (ENG),England,TONEY Ivan,Forward,22,3834.0,Ivan Toney,England,True,token_subset_country
+England (ENG),England,TRAFFORD James,Goalkeeper,23,,,,False,unmatched
+England (ENG),England,JAMES Reece,Defender,24,9550.0,Reece James,England,True,token_subset_country
+England (ENG),England,SPENCE Djed,Defender,25,,,,False,unmatched
+England (ENG),England,QUANSAH Jarell,Defender,26,,,,False,unmatched
+France (FRA),France,SAMBA Brice,Goalkeeper,1,,,,False,unmatched
+France (FRA),France,GUSTO Malo,Defender,2,,,,False,unmatched
+France (FRA),France,DIGNE Lucas,Defender,3,6849.0,Lucas Digne,France,True,token_subset_country
+France (FRA),France,Dayotchanculle Upamecano,Defender,4,8519.0,Dayotchanculle Upamecano,France,True,exact_normalized_country
+France (FRA),France,KOUNDE Jules,Defender,5,4445.0,Jules Koundé,France,True,token_subset_country
+France (FRA),France,KONE Manu,Midfielder,6,,,,False,unmatched
+France (FRA),France,DEMBELE Ousmane,Forward,7,5477.0,Ousmane Dembélé,France,True,token_subset_country
+France (FRA),France,TCHOUAMENI Aurelien,Midfielder,8,10481.0,Aurélien Djani Tchouaméni,France,True,token_subset_country
+France (FRA),France,THURAM Marcus,Forward,9,2972.0,Marcus Thuram,France,True,token_subset_country
+France (FRA),France,MBAPPE Kylian,Forward,10,3009.0,Kylian Mbappé Lottin,France,True,token_subset_country
+France (FRA),France,OLISE Michael,Forward,11,,,,False,unmatched
+France (FRA),France,BARCOLA Bradley,Forward,12,39420.0,Bradley Barcola,France,True,token_subset_country
+France (FRA),France,N'Golo Kanté,Midfielder,13,3961.0,N'Golo Kanté,France,True,exact_normalized_country
+France (FRA),France,RABIOT Adrien,Midfielder,14,3026.0,Adrien Rabiot,France,True,token_subset_country
+France (FRA),France,KONATE Ibrahima,Defender,15,11135.0,Ibrahima Konaté,France,True,token_subset_country
+France (FRA),France,MAIGNAN Mike,Goalkeeper,16,3761.0,Mike Maignan,France,True,token_subset_country
+France (FRA),France,SALIBA William,Defender,17,17592.0,William Saliba,France,True,token_subset_country
+France (FRA),France,ZAIRE-EMERY Warren,Midfielder,18,,,,False,unmatched
+France (FRA),France,HERNANDEZ Theo,Defender,19,6704.0,Theo Bernard François Hernández,France,True,token_subset_country
+France (FRA),France,DOUE Desire,Forward,20,,,,False,unmatched
+France (FRA),France,HERNANDEZ Lucas,Defender,21,5484.0,Lucas Hernández Pi,France,True,token_subset_country
+France (FRA),France,MATETA Jean-Philippe,Forward,22,,,,False,unmatched
+France (FRA),France,RISSER Robin,Goalkeeper,23,,,,False,unmatched
+France (FRA),France,CHERKI Rayan,Midfielder,24,,,,False,unmatched
+France (FRA),France,AKLIOUCHE Maghnes,Midfielder,25,,,,False,unmatched
+France (FRA),France,LACROIX Maxence,Defender,26,,,,False,unmatched
+Germany (GER),Germany,NEUER Manuel,Goalkeeper,1,5570.0,Manuel Neuer,Germany,True,token_subset_country
+Germany (GER),Germany,Antonio Rüdiger,Defender,2,3167.0,Antonio Rüdiger,Germany,True,exact_normalized_country
+Germany (GER),Germany,ANTON Waldemar,Defender,3,8538.0,Waldemar Anton,Germany,True,token_subset_country
+Germany (GER),Germany,TAH Jonathan,Defender,4,8221.0,Jonathan Tah,Germany,True,token_subset_country
+Germany (GER),Germany,PAVLOVIC Aleksandar,Midfielder,5,,,,False,unmatched
+Germany (GER),Germany,KIMMICH Joshua,Defender,6,5579.0,Joshua Kimmich,Germany,True,token_subset_country
+Germany (GER),Germany,HAVERTZ Kai,Forward,7,8966.0,Kai Havertz,Germany,True,token_subset_country
+Germany (GER),Germany,GORETZKA Leon,Midfielder,8,6324.0,Leon Goretzka,Germany,True,token_subset_country
+Germany (GER),Germany,LEWELING Jamie,Midfielder,9,,,,False,unmatched
+Germany (GER),Germany,MUSIALA Jamal,Midfielder,10,39565.0,Jamal Musiala,Germany,True,token_subset_country
+Germany (GER),Germany,WOLTEMADE Nick,Forward,11,,,,False,unmatched
+Germany (GER),Germany,BAUMANN Oliver,Goalkeeper,12,,,,False,unmatched
+Germany (GER),Germany,Pascal Groß,Midfielder,13,3097.0,Pascal Groß,Germany,True,exact_normalized_country
+Germany (GER),Germany,BEIER Maximilian,Forward,14,35242.0,Maximilian Beier,Germany,True,token_subset_country
+Germany (GER),Germany,SCHLOTTERBECK Nico,Defender,15,24118.0,Nico Schlotterbeck,Germany,True,token_subset_country
+Germany (GER),Germany,STILLER Angelo,Midfielder,16,,,,False,unmatched
+Germany (GER),Germany,WIRTZ Florian,Midfielder,17,40724.0,Florian Wirtz,Germany,True,token_subset_country
+Germany (GER),Germany,BROWN Nathaniel,Defender,18,,,,False,unmatched
+Germany (GER),Germany,SANE Leroy,Midfielder,19,3053.0,Leroy Sané,Germany,True,token_subset_country
+Germany (GER),Germany,AMIRI Nadiem,Midfielder,20,,,,False,unmatched
+Germany (GER),Germany,NUEBEL Alexander,Goalkeeper,21,,,,False,unmatched
+Germany (GER),Germany,RAUM David,Defender,22,12034.0,David Raum,Germany,True,token_subset_country
+Germany (GER),Germany,NMECHA Felix,Midfielder,23,,,,False,unmatched
+Germany (GER),Germany,THIAW Malick,Defender,24,,,,False,unmatched
+Germany (GER),Germany,OUEDRAOGO Assan,Midfielder,25,,,,False,unmatched
+Germany (GER),Germany,UNDAV Deniz,Forward,26,131243.0,Deniz Undav,Germany,True,token_subset_country
+Ghana (GHA),Ghana,ZIGI Lawrence,Goalkeeper,1,8108.0,Lawrence Ati-Zigi,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,SEIDU Alidu,Defender,2,45047.0,Alidu Seidu,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,YIRENKYI Caleb,Midfielder,3,,,,False,unmatched
+Ghana (GHA),Ghana,ADJETEY Jonas,Defender,4,,,,False,unmatched
+Ghana (GHA),Ghana,PARTEY Thomas,Midfielder,5,6383.0,Thomas Teye Partey,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,MUMIN Abdul,Defender,6,,,,False,unmatched
+Ghana (GHA),Ghana,FATAWU Abdul,Forward,7,136306.0,Abdul Fatawu Issahaku,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,SIBO Kwasi,Midfielder,8,,,,False,unmatched
+Ghana (GHA),Ghana,AYEW Jordan,Forward,9,3450.0,Jordan Ayew,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,THOMAS-ASANTE Brandon,Forward,10,,,,False,unmatched
+Ghana (GHA),Ghana,SEMENYO Antoine,Midfielder,11,9286.0,Antoine Semenyo,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,ANANG Joseph,Goalkeeper,12,,,,False,unmatched
+Ghana (GHA),Ghana,BONSU BAAH,Forward,13,,,,False,unmatched
+Ghana (GHA),Ghana,MENSAH Gideon,Defender,14,23615.0,Gideon Mensah,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,OWUSU Elisha,Midfielder,15,9859.0,Elisha Owusu,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,ASARE Benjamin,Goalkeeper,16,,,,False,unmatched
+Ghana (GHA),Ghana,RAHMAN Baba,Defender,17,12325.0,Abdul Rahman Baba,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,OPOKU Jerome,Defender,18,,,,False,unmatched
+Ghana (GHA),Ghana,WILLIAMS Inaki,Forward,19,6393.0,Iñaki Williams Arthuer,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,BOAKYE Augustine,Midfielder,20,,,,False,unmatched
+Ghana (GHA),Ghana,OPPONG Kojo,Defender,21,,,,False,unmatched
+Ghana (GHA),Ghana,SULEMANA Kamaldeen,Forward,22,35658.0,Kamaldeen Sulemana,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,LUCKASSEN Derrick,Defender,23,,,,False,unmatched
+Ghana (GHA),Ghana,NUAMAH Ernest,Forward,24,233463.0,Ernest Appiah Nuamah,Ghana,True,token_subset_country
+Ghana (GHA),Ghana,ADU Prince,Forward,25,,,,False,unmatched
+Ghana (GHA),Ghana,SENAYA Marvin,Defender,26,,,,False,unmatched
+Haiti (HAI),Haiti,PLACIDE Johny,Goalkeeper,1,,,,False,unmatched
+Haiti (HAI),Haiti,ARCUS Carlens,Defender,2,,,,False,unmatched
+Haiti (HAI),Haiti,THERMONCY Keeto,Defender,3,,,,False,unmatched
+Haiti (HAI),Haiti,ADE Ricardo,Defender,4,,,,False,unmatched
+Haiti (HAI),Haiti,DELCROIX Hannes,Defender,5,,,,False,unmatched
+Haiti (HAI),Haiti,SAINTE Carl,Midfielder,6,,,,False,unmatched
+Haiti (HAI),Haiti,ETIENNE Derrick,Forward,7,,,,False,unmatched
+Haiti (HAI),Haiti,EXPERIENCE Martin,Defender,8,,,,False,unmatched
+Haiti (HAI),Haiti,NAZON Duckens,Forward,9,,,,False,unmatched
+Haiti (HAI),Haiti,BELLEGARDE Jean-Ricner,Midfielder,10,,,,False,unmatched
+Haiti (HAI),Haiti,DEEDSON Louicius,Forward,11,,,,False,unmatched
+Haiti (HAI),Haiti,PIERRE Alexandre,Goalkeeper,12,,,,False,unmatched
+Haiti (HAI),Haiti,LACROIX Markhus,Defender,13,,,,False,unmatched
+Haiti (HAI),Haiti,METUSALA Garven,Defender,14,,,,False,unmatched
+Haiti (HAI),Haiti,PROVIDENCE Ruben,Forward,15,,,,False,unmatched
+Haiti (HAI),Haiti,JOSEPH Lenny,Forward,16,,,,False,unmatched
+Haiti (HAI),Haiti,JEAN JACQUES,Midfielder,17,,,,False,unmatched
+Haiti (HAI),Haiti,ISIDOR Wilson,Forward,18,,,,False,unmatched
+Haiti (HAI),Haiti,FORTUNE Yassin,Forward,19,,,,False,unmatched
+Haiti (HAI),Haiti,PIERROT Frantzdy,Forward,20,,,,False,unmatched
+Haiti (HAI),Haiti,CASIMIR Josue,Forward,21,,,,False,unmatched
+Haiti (HAI),Haiti,DUVERNE Jean-Kevin,Defender,22,,,,False,unmatched
+Haiti (HAI),Haiti,DUVERGER Josue,Goalkeeper,23,,,,False,unmatched
+Haiti (HAI),Haiti,PAUGAIN Wilguens,Defender,24,,,,False,unmatched
+Haiti (HAI),Haiti,SIMON Dominique,Midfielder,25,,,,False,unmatched
+Haiti (HAI),Haiti,PIERRE Woodensky,Midfielder,26,,,,False,unmatched
+IR Iran (IRN),IR Iran,BEIRANVAND Alireza,Goalkeeper,1,5227.0,Alireza Safar Beiranvand,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,HARDANI Saleh,Defender,2,,,,False,unmatched
+IR Iran (IRN),IR Iran,Ehsan Hajsafi,Defender,3,5230.0,Ehsan Hajsafi,Iran,True,exact_normalized_country
+IR Iran (IRN),IR Iran,KHALILZADEH Shoja,Defender,4,,,,False,unmatched
+IR Iran (IRN),IR Iran,MOHAMMADI Milad,Defender,5,5720.0,Milad Mohammadi,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,EZATOLAHI Saeid,Midfielder,6,5722.0,Saeid Ezatolahi Afagh,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,JAHANBAKHSH Alireza,Midfielder,7,5239.0,Alireza Jahanbakhsh,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,MOHEBBI Mohammad,Midfielder,8,,,,False,unmatched
+IR Iran (IRN),IR Iran,TAREMI Mehdi,Forward,9,5226.0,Mehdi Taremi,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,GHAYEDI Mehdi,Forward,10,,,,False,unmatched
+IR Iran (IRN),IR Iran,ALIPOUR Ali,Forward,11,,,,False,unmatched
+IR Iran (IRN),IR Iran,NIAZMAND Payam,Goalkeeper,12,,,,False,unmatched
+IR Iran (IRN),IR Iran,KANANI Hossein,Defender,13,124175.0,Mohammad Hossein Kanani Zadegan,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,GHODDOS Saman,Midfielder,14,5240.0,Saman Ghoddos,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,CHESHMI Roozbeh,Midfielder,15,5222.0,Roozbeh Cheshmi,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,TORABI Mehdi,Midfielder,16,124161.0,Mehdi Torabi,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,YOUSEFI Arya,Defender,17,,,,False,unmatched
+IR Iran (IRN),IR Iran,HOSSEINZADEH Amirhossein,Forward,18,,,,False,unmatched
+IR Iran (IRN),IR Iran,NEMATI Ali,Defender,19,,,,False,unmatched
+IR Iran (IRN),IR Iran,MOGHANLOO Shahriyar,Forward,20,,,,False,unmatched
+IR Iran (IRN),IR Iran,GHORBANI Mohammad,Midfielder,21,,,,False,unmatched
+IR Iran (IRN),IR Iran,HOSSEINI Hossein,Goalkeeper,22,125823.0,Seyed Hossein Hosseini,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,REZAEIAN Ramin,Defender,23,5235.0,Ramin Rezaeian,Iran,True,token_subset_country
+IR Iran (IRN),IR Iran,DARGAHI Dennis,Forward,24,,,,False,unmatched
+IR Iran (IRN),IR Iran,IRI Danial,Defender,25,,,,False,unmatched
+IR Iran (IRN),IR Iran,RAZAGHINIA Amirmohammad,Midfielder,26,,,,False,unmatched
+Iraq (IRQ),Iraq,FAHAD TALIB,Goalkeeper,1,,,,False,unmatched
+Iraq (IRQ),Iraq,REBIN SULAKA,Defender,2,,,,False,unmatched
+Iraq (IRQ),Iraq,HUSSEIN ALI,Defender,3,,,,False,unmatched
+Iraq (IRQ),Iraq,ZAID TAHSEEN,Defender,4,,,,False,unmatched
+Iraq (IRQ),Iraq,AKAM HASHIM,Defender,5,,,,False,unmatched
+Iraq (IRQ),Iraq,MUNAF YOUNUS,Defender,6,,,,False,unmatched
+Iraq (IRQ),Iraq,YOUSSEF AMYN,Midfielder,7,,,,False,unmatched
+Iraq (IRQ),Iraq,IBRAHIM BAYESH,Midfielder,8,,,,False,unmatched
+Iraq (IRQ),Iraq,ALI ALHAMADI,Forward,9,,,,False,unmatched
+Iraq (IRQ),Iraq,MOHANAD ALI,Forward,10,,,,False,unmatched
+Iraq (IRQ),Iraq,AHMED QASEM,Forward,11,,,,False,unmatched
+Iraq (IRQ),Iraq,JALAL HASSAN,Goalkeeper,12,,,,False,unmatched
+Iraq (IRQ),Iraq,ALI YOUSIF,Forward,13,,,,False,unmatched
+Iraq (IRQ),Iraq,ZIDANE IQBAL,Midfielder,14,,,,False,unmatched
+Iraq (IRQ),Iraq,AHMED MAKNAZI,Defender,15,,,,False,unmatched
+Iraq (IRQ),Iraq,AMIR ALAMMARI,Midfielder,16,,,,False,unmatched
+Iraq (IRQ),Iraq,ALI JASIM,Forward,17,,,,False,unmatched
+Iraq (IRQ),Iraq,AYMEN HUSSEIN,Forward,18,,,,False,unmatched
+Iraq (IRQ),Iraq,KEVIN YAKOB,Midfielder,19,,,,False,unmatched
+Iraq (IRQ),Iraq,AIMAR SHER,Midfielder,20,,,,False,unmatched
+Iraq (IRQ),Iraq,MARKO FARJI,Forward,21,,,,False,unmatched
+Iraq (IRQ),Iraq,AHMED BASIL,Goalkeeper,22,,,,False,unmatched
+Iraq (IRQ),Iraq,MERCHAS DOSKI,Defender,23,,,,False,unmatched
+Iraq (IRQ),Iraq,ZAID ISMAEL,Midfielder,24,,,,False,unmatched
+Iraq (IRQ),Iraq,MUSTAFA SAADOON,Defender,25,,,,False,unmatched
+Iraq (IRQ),Iraq,FRANS PUTROS,Defender,26,,,,False,unmatched
+Japan (JPN),Japan,SUZUKI Zion,Goalkeeper,1,,,,False,unmatched
+Japan (JPN),Japan,SUGAWARA Yukinari,Defender,2,,,,False,unmatched
+Japan (JPN),Japan,TANIGUCHI Shogo,Defender,3,37215.0,Shogo Taniguchi,Japan,True,token_subset_country
+Japan (JPN),Japan,Ko Itakura,Defender,4,29595.0,Ko Itakura,Japan,True,exact_normalized_country
+Japan (JPN),Japan,NAGATOMO Yuto,Defender,5,5690.0,Yuto Nagatomo,Japan,True,token_subset_country
+Japan (JPN),Japan,MACHINO Shuto,Forward,6,,,,False,unmatched
+Japan (JPN),Japan,TANAKA Ao,Midfielder,7,37208.0,Ao Tanaka,Japan,True,token_subset_country
+Japan (JPN),Japan,KUBO Takefusa,Midfielder,8,31090.0,Takefusa Kubo,Japan,True,token_subset_country
+Japan (JPN),Japan,GOTO Keisuke,Forward,9,,,,False,unmatched
+Japan (JPN),Japan,DOAN Ritsu,Midfielder,10,8361.0,Ritsu Doan,Japan,True,token_subset_country
+Japan (JPN),Japan,MAEDA Daizen,Midfielder,11,30628.0,Daizen Maeda,Japan,True,token_subset_country
+Japan (JPN),Japan,OSAKO Keisuke,Goalkeeper,12,,,,False,unmatched
+Japan (JPN),Japan,NAKAMURA Keito,Midfielder,13,,,,False,unmatched
+Japan (JPN),Japan,ITO Junya,Midfielder,14,23527.0,Junya Ito,Japan,True,token_subset_country
+Japan (JPN),Japan,KAMADA Daichi,Midfielder,15,9411.0,Daichi Kamada,Japan,True,token_subset_country
+Japan (JPN),Japan,WATANABE Tsuyoshi,Defender,16,,,,False,unmatched
+Japan (JPN),Japan,SUZUKI Yuito,Midfielder,17,,,,False,unmatched
+Japan (JPN),Japan,UEDA Ayase,Forward,18,38285.0,Ayase Ueda,Japan,True,token_subset_country
+Japan (JPN),Japan,OGAWA Koki,Forward,19,,,,False,unmatched
+Japan (JPN),Japan,SEKO Ayumu,Defender,20,,,,False,unmatched
+Japan (JPN),Japan,ITO Hiroki,Defender,21,95272.0,Hiroki Ito,Japan,True,token_subset_country
+Japan (JPN),Japan,TOMIYASU Takehiro,Defender,22,23730.0,Takehiro Tomiyasu,Japan,True,token_subset_country
+Japan (JPN),Japan,HAYAKAWA Tomoki,Goalkeeper,23,,,,False,unmatched
+Japan (JPN),Japan,SANO Kaishu,Midfielder,24,,,,False,unmatched
+Japan (JPN),Japan,SUZUKI Junnosuke,Defender,25,,,,False,unmatched
+Japan (JPN),Japan,SHIOGAI Kento,Forward,26,,,,False,unmatched
+Jordan (JOR),Jordan,YAZEED ABULAILA,Goalkeeper,1,,,,False,unmatched
+Jordan (JOR),Jordan,MOHAMMAD ABUHASHEESH,Defender,2,,,,False,unmatched
+Jordan (JOR),Jordan,ABDALLAH NASIB,Defender,3,,,,False,unmatched
+Jordan (JOR),Jordan,HUSAM ABUDAHAB,Defender,4,,,,False,unmatched
+Jordan (JOR),Jordan,YAZAN ALARAB,Defender,5,,,,False,unmatched
+Jordan (JOR),Jordan,AMER JAMOUS,Midfielder,6,,,,False,unmatched
+Jordan (JOR),Jordan,MOHAMMAD ABUZRAIQ,Forward,7,,,,False,unmatched
+Jordan (JOR),Jordan,NOOR ALRAWABDEH,Midfielder,8,,,,False,unmatched
+Jordan (JOR),Jordan,ALI OLWAN,Forward,9,,,,False,unmatched
+Jordan (JOR),Jordan,MOUSA ALTAMARI,Forward,10,,,,False,unmatched
+Jordan (JOR),Jordan,ODEH FAKHOURY,Forward,11,,,,False,unmatched
+Jordan (JOR),Jordan,NOUR BANIATEYAH,Goalkeeper,12,,,,False,unmatched
+Jordan (JOR),Jordan,MAHMOUD ALMARDI,Forward,13,,,,False,unmatched
+Jordan (JOR),Jordan,RAJAEI AYED,Midfielder,14,,,,False,unmatched
+Jordan (JOR),Jordan,IBRAHIM SADEH,Midfielder,15,,,,False,unmatched
+Jordan (JOR),Jordan,MOHAMMAD ABUALNADI,Defender,16,,,,False,unmatched
+Jordan (JOR),Jordan,SALEEM OBAID,Defender,17,,,,False,unmatched
+Jordan (JOR),Jordan,MOHAMMAD ABUGHOUSH,Midfielder,18,,,,False,unmatched
+Jordan (JOR),Jordan,SAED ALROSAN,Defender,19,,,,False,unmatched
+Jordan (JOR),Jordan,MOHANNAD ABUTAHA,Midfielder,20,,,,False,unmatched
+Jordan (JOR),Jordan,NIZAR ALRASHDAN,Midfielder,21,,,,False,unmatched
+Jordan (JOR),Jordan,ABDALLAH ALFAKHORI,Goalkeeper,22,,,,False,unmatched
+Jordan (JOR),Jordan,EHSAN HADDAD,Defender,23,,,,False,unmatched
+Jordan (JOR),Jordan,ALI AZAIZEH,Forward,24,,,,False,unmatched
+Jordan (JOR),Jordan,MOHAMMAD ALDAOUD,Midfielder,25,,,,False,unmatched
+Jordan (JOR),Jordan,ANAS BADAWI,Defender,26,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,Seung-Gyu Kim,Goalkeeper,1,37641.0,Seung-Gyu Kim,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,LEE Hanbeom,Defender,2,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,LEE Gihyuk,Midfielder,3,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,Min Jae Kim,Defender,4,43565.0,Min Jae Kim,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,KIM Taehyeon,Defender,5,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,In-Beom Hwang,Midfielder,6,23763.0,In-Beom Hwang,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,Heung-Min Son,Forward,7,3083.0,Heung-Min Son,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,Seung-Ho Paik,Midfielder,8,23264.0,Seung-Ho Paik,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,Gue-Sung Cho,Forward,9,40542.0,Gue-Sung Cho,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,Jae-Sung Lee,Midfielder,10,5623.0,Jae-Sung Lee,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,Hee-Chan Hwang,Midfielder,11,5620.0,Hee-Chan Hwang,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,SONG Bumkeun,Goalkeeper,12,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,LEE Taeseok,Defender,13,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,CHO Wije,Defender,14,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,Moon-Hwan Kim,Defender,15,40672.0,Moon-Hwan Kim,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,PARK Jinseob,Defender,16,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,BAE Junho,Midfielder,17,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,OH Hyeongyu,Forward,18,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,Kang-In Lee,Midfielder,19,22740.0,Kang-In Lee,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,YANG Hyunjun,Midfielder,20,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,Hyeon-Woo Jo,Goalkeeper,21,5619.0,Hyeon-Woo Jo,South Korea,True,exact_normalized_country
+Korea Republic (KOR),Korea Republic,SEOL Youngwoo,Defender,22,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,CASTROP Jens,Defender,23,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,KIM Jingyu,Midfielder,24,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,EOM Jisung,Midfielder,25,,,,False,unmatched
+Korea Republic (KOR),Korea Republic,LEE Donggyeong,Midfielder,26,,,,False,unmatched
+Mexico (MEX),Mexico,RANGEL Raul,Goalkeeper,1,,,,False,unmatched
+Mexico (MEX),Mexico,SANCHEZ Jorge,Defender,2,26406.0,Jorge Eduardo Sánchez Ramos,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,MONTES Cesar,Defender,3,26368.0,César Jasib Montes Castro,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,ALVAREZ Edson,Defender,4,5567.0,Edson Omar Álvarez Velázquez,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,VASQUEZ Johan,Defender,5,26336.0,Johan Felipe Vásquez Ibarra,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,LIRA Erik,Midfielder,6,,,,False,unmatched
+Mexico (MEX),Mexico,ROMO Luis,Midfielder,7,26386.0,Luis Francisco Romo Barrón,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,FIDALGO Alvaro,Midfielder,8,,,,False,unmatched
+Mexico (MEX),Mexico,JIMENEZ Raul,Forward,9,5568.0,Raúl Alonso Jiménez Rodríguez,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,VEGA Alexis,Forward,10,26301.0,Ernesto Alexis Vega Rojas,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,GIMENEZ Santiago,Forward,11,31053.0,Santiago Tomás Giménez,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,ACEVEDO Carlos,Goalkeeper,12,,,,False,unmatched
+Mexico (MEX),Mexico,OCHOA Guillermo,Goalkeeper,13,5577.0,Francisco Guillermo Ochoa Magaña,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,GONZALEZ Armando,Forward,14,,,,False,unmatched
+Mexico (MEX),Mexico,REYES Israel,Defender,15,33126.0,Israel Reyes Romero,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,QUINONES Julian,Forward,16,35375.0,Julián Andrés Quiñones Quiñones,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,PINEDA Orbelin,Midfielder,17,26280.0,Orbelín Pineda Alvarado,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,VARGAS Obed,Midfielder,18,,,,False,unmatched
+Mexico (MEX),Mexico,MORA Gilberto,Midfielder,19,,,,False,unmatched
+Mexico (MEX),Mexico,CHAVEZ Mateo,Defender,20,,,,False,unmatched
+Mexico (MEX),Mexico,HUERTA Cesar,Forward,21,27889.0,César Saúl Huerta Valera,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,MARTINEZ Guillermo,Forward,22,75305.0,Guillermo Martínez Ayala,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,GALLARDO Jesus,Defender,23,5576.0,Jesús Daniel Gallardo Vasconcelos,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,CHAVEZ Luis,Midfielder,24,28825.0,Luis Gerardo Chávez Magallón,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,ALVARADO Roberto,Forward,25,26375.0,Roberto Carlos Alvarado Hernández,Mexico,True,token_subset_country
+Mexico (MEX),Mexico,GUTIERREZ Brian,Midfielder,26,,,,False,unmatched
+Morocco (MAR),Morocco,BOUNOU Yassine,Goalkeeper,1,6785.0,Yassine Bounou,Morocco,True,token_subset_country
+Morocco (MAR),Morocco,HAKIMI Achraf,Defender,2,5245.0,Achraf Hakimi Mouh,Morocco,True,token_subset_country
+Morocco (MAR),Morocco,MAZRAOUI Noussair,Defender,3,15890.0,Noussair Mazraoui,Morocco,True,token_subset_country
+Morocco (MAR),Morocco,AMRABAT Sofyan,Midfielder,4,5234.0,Sofyan Amrabat,Morocco,True,token_subset_country
+Morocco (MAR),Morocco,SAADANE Marwane,Defender,5,,,,False,unmatched
+Morocco (MAR),Morocco,BOUADDI Ayyoub,Midfielder,6,,,,False,unmatched
+Morocco (MAR),Morocco,TALBI Chemsdine,Midfielder,7,,,,False,unmatched
+Morocco (MAR),Morocco,OUNAHI Azzedine,Midfielder,8,46258.0,Azzedine Ounahi,Morocco,True,token_subset_country
+Morocco (MAR),Morocco,RAHIMI Sou,Forward,9,,,,False,unmatched
+Morocco (MAR),Morocco,DIAZ Brahim,Forward,10,,,,False,unmatched
+Morocco (MAR),Morocco,SAIBARI Ismael,Midfielder,11,39174.0,Ismael Saibari,Morocco,True,token_subset_country
+Morocco (MAR),Morocco,EL KAJOUI,Goalkeeper,12,,,,False,unmatched
+Morocco (MAR),Morocco,EL OUAHDI,Defender,13,,,,False,unmatched
+Morocco (MAR),Morocco,DIOP Issa,Defender,14,,,,False,unmatched
+Morocco (MAR),Morocco,EL MOURABET,Midfielder,15,,,,False,unmatched
+Morocco (MAR),Morocco,YASSINE Gessime,Midfielder,16,,,,False,unmatched
+Morocco (MAR),Morocco,SBAI Amine,Forward,17,,,,False,unmatched
+Morocco (MAR),Morocco,RIAD Chadi,Defender,18,,,,False,unmatched
+Morocco (MAR),Morocco,BELAMMARI Youssef,Defender,19,,,,False,unmatched
+Morocco (MAR),Morocco,EL KAABI,Forward,20,5229.0,Ayoub El Kaabi,Morocco,True,token_subset_country
+Morocco (MAR),Morocco,AMAIMOUNI Ayoube,Forward,21,,,,False,unmatched
+Morocco (MAR),Morocco,TAGNAOUTI Ahmed,Goalkeeper,22,,,,False,unmatched
+Morocco (MAR),Morocco,Bilal El Khannous,Midfielder,23,156734.0,Bilal El Khannous,Morocco,True,exact_normalized_country
+Morocco (MAR),Morocco,EL AYNAOUI,Midfielder,24,,,,False,unmatched
+Morocco (MAR),Morocco,HALHAL Redouane,Defender,25,,,,False,unmatched
+Morocco (MAR),Morocco,SALAH EDDINE,Defender,26,,,,False,unmatched
+Netherlands (NED),Netherlands,VERBRUGGEN Bart,Goalkeeper,1,37274.0,Bart Verbruggen,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,GEERTRUIDA Lutsharel,Defender,2,22352.0,Lutsharel Geertruida,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,DE ROON,Midfielder,3,6994.0,Marten de Roon,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,VAN DIJK,Defender,4,3669.0,Virgil van Dijk,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,AKE Nathan,Defender,5,3306.0,Nathan Aké,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,VAN HECKE,Defender,6,,,,False,unmatched
+Netherlands (NED),Netherlands,KLUIVERT Justin,Midfielder,7,,,,False,unmatched
+Netherlands (NED),Netherlands,GRAVENBERCH Ryan,Midfielder,8,23230.0,Ryan Gravenberch,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,WEGHORST Wout,Forward,9,7829.0,Wout Weghorst,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,DEPAY Memphis,Forward,10,2988.0,Memphis Depay,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,GAKPO Cody,Forward,11,20750.0,Cody Mathès Gakpo,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,WIEFFER Mats,Defender,12,,,,False,unmatched
+Netherlands (NED),Netherlands,ROEFS Robin,Goalkeeper,13,,,,False,unmatched
+Netherlands (NED),Netherlands,REIJNDERS Tijjani,Midfielder,14,21582.0,Tijjani Reijnders,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,VAN DE,Defender,15,32547.0,Micky van de Ven,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,TIL Guus,Midfielder,16,,,,False,unmatched
+Netherlands (NED),Netherlands,LANG Noa,Forward,17,21547.0,Noa Lang,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,MALEN Donyell,Forward,18,15582.0,Donyell Malen,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,BROBBEY Brian,Forward,19,,,,False,unmatched
+Netherlands (NED),Netherlands,KOOPMEINERS Teun,Midfielder,20,7891.0,Teun Koopmeiners,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,DE JONG,Midfielder,21,,,,False,unmatched
+Netherlands (NED),Netherlands,DUMFRIES Denzel,Defender,22,8125.0,Denzel Dumfries,Netherlands,True,token_subset_country
+Netherlands (NED),Netherlands,FLEKKEN Mark,Goalkeeper,23,,,,False,unmatched
+Netherlands (NED),Netherlands,SUMMERVILLE Crysencio,Forward,24,,,,False,unmatched
+Netherlands (NED),Netherlands,HATO Jorrel,Defender,25,,,,False,unmatched
+Netherlands (NED),Netherlands,TIMBER Quinten,Midfielder,26,,,,False,unmatched
+New Zealand (NZL),New Zealand,CROCOMBE Max,Goalkeeper,1,,,,False,unmatched
+New Zealand (NZL),New Zealand,PAYNE Tim,Defender,2,,,,False,unmatched
+New Zealand (NZL),New Zealand,DE VRIES,Defender,3,,,,False,unmatched
+New Zealand (NZL),New Zealand,BINDON Tyler,Defender,4,,,,False,unmatched
+New Zealand (NZL),New Zealand,BOXALL Michael,Defender,5,,,,False,unmatched
+New Zealand (NZL),New Zealand,BELL Joe,Midfielder,6,,,,False,unmatched
+New Zealand (NZL),New Zealand,ROGERSON Logan,Forward,7,,,,False,unmatched
+New Zealand (NZL),New Zealand,STAMENIC Marko,Midfielder,8,,,,False,unmatched
+New Zealand (NZL),New Zealand,WOOD Chris,Forward,9,,,,False,unmatched
+New Zealand (NZL),New Zealand,SINGH Sarpreet,Midfielder,10,,,,False,unmatched
+New Zealand (NZL),New Zealand,JUST Elijah,Midfielder,11,,,,False,unmatched
+New Zealand (NZL),New Zealand,PAULSEN Alex,Goalkeeper,12,,,,False,unmatched
+New Zealand (NZL),New Zealand,CACACE Liberato,Defender,13,,,,False,unmatched
+New Zealand (NZL),New Zealand,RUFER Alex,Midfielder,14,,,,False,unmatched
+New Zealand (NZL),New Zealand,PIJNAKER Nando,Defender,15,,,,False,unmatched
+New Zealand (NZL),New Zealand,SURMAN Finn,Defender,16,,,,False,unmatched
+New Zealand (NZL),New Zealand,BARBAROUSES Kosta,Forward,17,,,,False,unmatched
+New Zealand (NZL),New Zealand,WAINE Ben,Forward,18,,,,False,unmatched
+New Zealand (NZL),New Zealand,OLD Ben,Midfielder,19,,,,False,unmatched
+New Zealand (NZL),New Zealand,McCOWATT Callum,Midfielder,20,,,,False,unmatched
+New Zealand (NZL),New Zealand,RANDALL Jesse,Forward,21,,,,False,unmatched
+New Zealand (NZL),New Zealand,WOUD Michael,Goalkeeper,22,,,,False,unmatched
+New Zealand (NZL),New Zealand,THOMAS Ryan,Midfielder,23,,,,False,unmatched
+New Zealand (NZL),New Zealand,ELLIOT Callan,Defender,24,,,,False,unmatched
+New Zealand (NZL),New Zealand,BAYLISS Lachlan,Midfielder,25,,,,False,unmatched
+New Zealand (NZL),New Zealand,SMITH Tommy,Defender,26,,,,False,unmatched
+Norway (NOR),Norway,NYLAND Orjan,Goalkeeper,1,,,,False,unmatched
+Norway (NOR),Norway,THORSBY Morten,Midfielder,2,,,,False,unmatched
+Norway (NOR),Norway,AJER Kristoffer,Defender,3,,,,False,unmatched
+Norway (NOR),Norway,OSTIGARD Leo,Defender,4,,,,False,unmatched
+Norway (NOR),Norway,MOLLER WOLFE,Defender,5,,,,False,unmatched
+Norway (NOR),Norway,BERG Patrick,Midfielder,6,,,,False,unmatched
+Norway (NOR),Norway,SORLOTH Alexander,Forward,7,,,,False,unmatched
+Norway (NOR),Norway,BERGE Sander,Midfielder,8,,,,False,unmatched
+Norway (NOR),Norway,HAALAND Erling,Forward,9,,,,False,unmatched
+Norway (NOR),Norway,ODEGAARD Martin,Midfielder,10,,,,False,unmatched
+Norway (NOR),Norway,STRAND LARSEN,Forward,11,,,,False,unmatched
+Norway (NOR),Norway,TANGVIK Sander,Goalkeeper,12,,,,False,unmatched
+Norway (NOR),Norway,SELVIK Egil,Goalkeeper,13,,,,False,unmatched
+Norway (NOR),Norway,AURSNES Fredrik,Midfielder,14,,,,False,unmatched
+Norway (NOR),Norway,BJORKAN Fredrik,Defender,15,,,,False,unmatched
+Norway (NOR),Norway,HOLMGREN PEDERSEN,Defender,16,,,,False,unmatched
+Norway (NOR),Norway,HEGGEM Torbjorn,Defender,17,,,,False,unmatched
+Norway (NOR),Norway,THORSTVEDT Kristian,Midfielder,18,,,,False,unmatched
+Norway (NOR),Norway,AASGAARD Thelo,Midfielder,19,,,,False,unmatched
+Norway (NOR),Norway,NUSA Antonio,Forward,20,,,,False,unmatched
+Norway (NOR),Norway,SCHJELDERUP Andreas,Midfielder,21,,,,False,unmatched
+Norway (NOR),Norway,BOBB Oscar,Midfielder,22,,,,False,unmatched
+Norway (NOR),Norway,HAUGE Jens,Midfielder,23,,,,False,unmatched
+Norway (NOR),Norway,LANGAS Sondre,Defender,24,,,,False,unmatched
+Norway (NOR),Norway,FALCHENER Henrik,Defender,25,,,,False,unmatched
+Norway (NOR),Norway,RYERSON Julian,Forward,26,,,,False,unmatched
+Panama (PAN),Panama,MEJIA Luis,Goalkeeper,1,,,,False,unmatched
+Panama (PAN),Panama,BLACKMAN Cesar,Defender,2,44305.0,César Rodolfo Blackman Camarena,Panama,True,token_subset_country
+Panama (PAN),Panama,CORDOBA Jose,Defender,3,223971.0,José Ángel Córdoba Chambers,Panama,True,token_subset_country
+Panama (PAN),Panama,ESCOBAR Fidel,Defender,4,5638.0,Fidel Escobar Mendieta,Panama,True,token_subset_country
+Panama (PAN),Panama,FARINA Edgardo,Defender,5,260212.0,Edgardo Isaac Fariña Wynter,Panama,True,token_subset_country
+Panama (PAN),Panama,MARTINEZ Cristian,Midfielder,6,16637.0,Cristian Jesús Martínez,Panama,True,token_subset_country
+Panama (PAN),Panama,RODRIGUEZ Jose,Midfielder,7,5628.0,José Luis Rodríguez Francis,Panama,True,token_subset_country
+Panama (PAN),Panama,CARRASQUILLA Adalberto,Midfielder,8,47345.0,Adalberto Eliécer Carrasquilla Alcázar,Panama,True,token_subset_country
+Panama (PAN),Panama,RODRIGUEZ Tomas,Forward,9,,,,False,unmatched
+Panama (PAN),Panama,DIAZ Ismael,Midfielder,10,5644.0,Ismael Díaz De León,Panama,True,token_subset_country
+Panama (PAN),Panama,BARCENAS Edgar,Midfielder,11,5637.0,Edgar Yoel Bárcenas Herrera,Panama,True,token_subset_country
+Panama (PAN),Panama,SAMUDIO Cesar,Goalkeeper,12,,,,False,unmatched
+Panama (PAN),Panama,RAMOS Jiovany,Defender,13,,,,False,unmatched
+Panama (PAN),Panama,HARVEY Carlos,Defender,14,34148.0,Carlos Miguel Harvey Cesneros,Panama,True,token_subset_country
+Panama (PAN),Panama,Erick Javier Davis Grajales,Defender,15,5634.0,Erick Javier Davis Grajales,Panama,True,exact_normalized_country
+Panama (PAN),Panama,ANDRADE Andres,Defender,16,,,,False,unmatched
+Panama (PAN),Panama,FAJARDO Jose,Forward,17,91089.0,José Fajardo Nelson,Panama,True,token_subset_country
+Panama (PAN),Panama,WATERMAN Cecilio,Forward,18,,,,False,unmatched
+Panama (PAN),Panama,QUINTERO Alberto,Midfielder,19,,,,False,unmatched
+Panama (PAN),Panama,GODOY Anibal,Midfielder,20,5646.0,Aníbal Cesis Godoy,Panama,True,token_subset_country
+Panama (PAN),Panama,YANIS Cesar,Midfielder,21,104181.0,César Augusto Yanis Velasco,Panama,True,token_subset_country
+Panama (PAN),Panama,MOSQUERA Orlando,Goalkeeper,22,104179.0,Orlando Mosquera,Panama,True,token_subset_country
+Panama (PAN),Panama,MURILLO Amir,Defender,23,5641.0,Michael Amir Murillo Bermudez,Panama,True,token_subset_country
+Panama (PAN),Panama,LONDONO Azarias,Forward,24,,,,False,unmatched
+Panama (PAN),Panama,MILLER Roderick,Defender,25,22256.0,Roderick Alonso Miller Molina,Panama,True,token_subset_country
+Panama (PAN),Panama,GUTIERREZ Jorge,Defender,26,,,,False,unmatched
+Paraguay (PAR),Paraguay,FERNANDEZ Gatito,Goalkeeper,1,,,,False,unmatched
+Paraguay (PAR),Paraguay,VELAZQUEZ Gustavo,Defender,2,28943.0,Víctor Gustavo Velázquez Ramos,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,ALDERETE Omar,Defender,3,29009.0,Omar Federico Alderete Fernández,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,CACERES Juan,Defender,4,,,,False,unmatched
+Paraguay (PAR),Paraguay,BALBUENA Fabian,Defender,5,10290.0,Fabián Cornelio Balbuena González,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,ALONSO Junior,Defender,6,,,,False,unmatched
+Paraguay (PAR),Paraguay,SOSA Ramon,Midfielder,7,87603.0,Ramón Sosa Acosta,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,GOMEZ Diego,Midfielder,8,,,,False,unmatched
+Paraguay (PAR),Paraguay,SANABRIA Antonio,Forward,9,,,,False,unmatched
+Paraguay (PAR),Paraguay,ALMIRON Miguel,Midfielder,10,12603.0,Miguel Ángel Almirón Rejala,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,MAURICIO Mauricio,Midfielder,11,,,,False,unmatched
+Paraguay (PAR),Paraguay,GILL Orlando,Goalkeeper,12,,,,False,unmatched
+Paraguay (PAR),Paraguay,CANALE Jose,Defender,13,,,,False,unmatched
+Paraguay (PAR),Paraguay,CUBAS Andres,Midfielder,14,28657.0,Adrián Andrés Cubas,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,GOMEZ Gustavo,Defender,15,,,,False,unmatched
+Paraguay (PAR),Paraguay,BOBADILLA Damian,Midfielder,16,87449.0,Damián Josué Bobadilla Benítez,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,ROMERO GAMARRA,Forward,17,12758.0,Alejandro Romero Gamarra,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,ARCE Alex,Forward,18,170230.0,Alex Adrián Arce Barrios,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,ENCISO Julio,Forward,19,47112.0,Julio César Enciso Espínola,Paraguay,True,token_subset_country
+Paraguay (PAR),Paraguay,OJEDA Braian,Midfielder,20,,,,False,unmatched
+Paraguay (PAR),Paraguay,AVALOS Gabriel,Forward,21,,,,False,unmatched
+Paraguay (PAR),Paraguay,OLVEIRA Gaston,Goalkeeper,22,,,,False,unmatched
+Paraguay (PAR),Paraguay,GALARZA Matias,Midfielder,23,,,,False,unmatched
+Paraguay (PAR),Paraguay,CABALLERO Gustavo,Midfielder,24,,,,False,unmatched
+Paraguay (PAR),Paraguay,PITTA Isidro,Forward,25,,,,False,unmatched
+Paraguay (PAR),Paraguay,MAIDANA Alexandro,Defender,26,,,,False,unmatched
+Portugal (POR),Portugal,DIOGO COSTA,Goalkeeper,1,32975.0,Diogo Meireles Costa,Portugal,True,token_subset_country
+Portugal (POR),Portugal,NELSON SEMEDO,Defender,2,6374.0,Nélson Cabral Semedo,Portugal,True,token_subset_country
+Portugal (POR),Portugal,RUBEN DIAS,Defender,3,5206.0,Rúben Santos Gato Alves Dias,Portugal,True,token_subset_country
+Portugal (POR),Portugal,TOMAS ARAUJO,Defender,4,,,,False,unmatched
+Portugal (POR),Portugal,DIOGO DALOT,Defender,5,16028.0,José Diogo Dalot Teixeira,Portugal,True,token_subset_country
+Portugal (POR),Portugal,MATHEUS NUNES,Midfielder,6,40874.0,Matheus Luiz Nunes,Portugal,True,token_subset_country
+Portugal (POR),Portugal,CRISTIANO RONALDO,Forward,7,5207.0,Cristiano Ronaldo dos Santos Aveiro,Portugal,True,token_subset_country
+Portugal (POR),Portugal,BRUNO FERNANDES,Midfielder,8,5204.0,Bruno Miguel Borges Fernandes,Portugal,True,token_subset_country
+Portugal (POR),Portugal,GONCALO RAMOS,Forward,9,38803.0,Gonçalo Matias Ramos,Portugal,True,token_subset_country
+Portugal (POR),Portugal,BERNARDO SILVA,Midfielder,10,3193.0,Bernardo Mota Veiga de Carvalho e Silva,Portugal,True,token_subset_country
+Portugal (POR),Portugal,JOAO FELIX,Forward,11,12041.0,João Félix Sequeira,Portugal,True,token_subset_country
+Portugal (POR),Portugal,JOSE SA,Goalkeeper,12,,,,False,unmatched
+Portugal (POR),Portugal,RENATO VEIGA,Defender,13,,,,False,unmatched
+Portugal (POR),Portugal,GONCALO INACIO,Defender,14,42106.0,Gonçalo Bernardo Inácio,Portugal,True,token_subset_country
+Portugal (POR),Portugal,JOAO NEVES,Midfielder,15,143859.0,João Neves,Portugal,True,exact_normalized_country
+Portugal (POR),Portugal,FRANCISCO TRINCAO,Forward,16,,,,False,unmatched
+Portugal (POR),Portugal,RAFAEL LEAO,Forward,17,18360.0,Rafael Alexandre Conceição Leão,Portugal,True,token_subset_country
+Portugal (POR),Portugal,PEDRO NETO,Forward,18,23256.0,Pedro Lomba Neto,Portugal,True,token_subset_country
+Portugal (POR),Portugal,GONCALO GUEDES,Forward,19,4367.0,Gonçalo Manuel Ganchinho Guedes,Portugal,True,token_subset_country
+Portugal (POR),Portugal,JOAO CANCELO,Defender,20,7005.0,João Pedro Cavaco Cancelo,Portugal,True,token_subset_country
+Portugal (POR),Portugal,RUBEN NEVES,Midfielder,21,9927.0,Rúben Diogo Da Silva Neves,Portugal,True,token_subset_country
+Portugal (POR),Portugal,RUI SILVA,Goalkeeper,22,,,,False,unmatched
+Portugal (POR),Portugal,Vitor Machado Ferreira,Midfielder,23,34639.0,Vitor Machado Ferreira,Portugal,True,exact_normalized_country
+Portugal (POR),Portugal,SAMU COSTA,Defender,24,,,,False,unmatched
+Portugal (POR),Portugal,NUNO MENDES,Defender,25,41092.0,Nuno Mendes,Portugal,True,exact_normalized_country
+Portugal (POR),Portugal,FRANCISCO CONCEICAO,Forward,26,39624.0,Francisco Fernandes Conceição,Portugal,True,token_subset_country
+Qatar (QAT),Qatar,MAHMOUD ABUNADA,Goalkeeper,1,,,,False,unmatched
+Qatar (QAT),Qatar,PEDRO MIGUEL,Defender,2,124506.0,Pedro Miguel Correia,Qatar,True,token_subset_country
+Qatar (QAT),Qatar,LUCAS MENDES,Defender,3,,,,False,unmatched
+Qatar (QAT),Qatar,ISSA LAYE,Defender,4,,,,False,unmatched
+Qatar (QAT),Qatar,JASSEM GABER,Defender,5,,,,False,unmatched
+Qatar (QAT),Qatar,ABDULAZIZ HATEM,Midfielder,6,124514.0,Abdulaziz Hatem Mohammed Abdullah,Qatar,True,token_subset_country
+Qatar (QAT),Qatar,Ahmed Alaa Eldin Abdelmotaal,Forward,7,124490.0,Ahmed Alaa Eldin Abdelmotaal,Qatar,True,exact_normalized_country
+Qatar (QAT),Qatar,EDMILSON JUNIOR,Forward,8,,,,False,unmatched
+Qatar (QAT),Qatar,MOHAMMED MUNTARI,Forward,9,124901.0,Mohammed Muntari,Qatar,True,exact_normalized_country
+Qatar (QAT),Qatar,Hassan Khalid Al Heidos,Forward,10,124488.0,Hassan Khalid Al Heidos,Qatar,True,exact_normalized_country
+Qatar (QAT),Qatar,AKRAM AFIF,Forward,11,40784.0,Akram Hassan Afif,Qatar,True,token_subset_country
+Qatar (QAT),Qatar,KARIM BOUDIAF,Midfielder,12,124492.0,Karim Boudiaf,Qatar,True,exact_normalized_country
+Qatar (QAT),Qatar,AYOUB ALOUI,Defender,13,,,,False,unmatched
+Qatar (QAT),Qatar,HOMAM AHMED,Defender,14,124900.0,Homam Alamin Ahmed,Qatar,True,token_subset_country
+Qatar (QAT),Qatar,YUSUF ABDURISAG,Forward,15,,,,False,unmatched
+Qatar (QAT),Qatar,BOUALEM KHOUKHI,Defender,16,124493.0,Boualem Khoukhi,Qatar,True,exact_normalized_country
+Qatar (QAT),Qatar,AHMED ALGANEHI,Midfielder,17,,,,False,unmatched
+Qatar (QAT),Qatar,SULTAN ALBRAKE,Defender,18,,,,False,unmatched
+Qatar (QAT),Qatar,ALMOEZ ALI,Forward,19,124495.0,Almoez Ali Zainalabiddin Abdulla,Qatar,True,token_subset_country
+Qatar (QAT),Qatar,AHMED FATHY,Midfielder,20,,,,False,unmatched
+Qatar (QAT),Qatar,SALAH ZAKARIA,Goalkeeper,21,,,,False,unmatched
+Qatar (QAT),Qatar,MESHAAL BARSHAM,Goalkeeper,22,124510.0,Meshaal Aissa Barsham,Qatar,True,token_subset_country
+Qatar (QAT),Qatar,ASSIM MADIBO,Midfielder,23,124500.0,Assim Omer Al Haj Madibo,Qatar,True,token_subset_country
+Qatar (QAT),Qatar,TAHSIN MOHAMMED,Forward,24,,,,False,unmatched
+Qatar (QAT),Qatar,ALHASHMI ALHUSSEIN,Defender,25,,,,False,unmatched
+Qatar (QAT),Qatar,MOHAMED MANAI,Forward,26,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,NAWAF ALAQIDI,Goalkeeper,1,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,ALI MAJRASHI,Defender,2,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,ALI LAJAMI,Defender,3,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,Abdulelah Al Amri,Defender,4,51094.0,Abdulelah Al Amri,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,Hassan Mohammed Al-Tambakti,Defender,5,51546.0,Hassan Mohammed Al-Tambakti,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,Nasser Al Dawsari,Midfielder,6,74623.0,Nasser Al Dawsari,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,MUSAB ALJUWAYR,Midfielder,7,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,AIMAN YAHYA,Forward,8,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,Firas Tariq Nasser Al Albirakan,Forward,9,51099.0,Firas Tariq Nasser Al Albirakan,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,Salem Mohammed Al Dawsari,Forward,10,5187.0,Salem Mohammed Al Dawsari,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,Saleh Khalid Al Shehri,Forward,11,51469.0,Saleh Khalid Al Shehri,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,Saud Abdullah Abdul Hamid,Defender,12,51710.0,Saud Abdullah Abdul Hamid,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,NAWAF BU,Defender,13,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,HASSAN KADISH,Defender,14,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,ABDULLAH ALKHAIBARI,Midfielder,15,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,ZIYAD ALJOHANI,Midfielder,16,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,KHALID ALGHANNAM,Forward,17,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,ALA ALHAJJI,Midfielder,18,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,ABDULLAH ALHAMDDAN,Forward,19,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,SULTAN MANDASH,Forward,20,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,Mohammed Khalil Al Owais,Goalkeeper,21,5714.0,Mohammed Khalil Al Owais,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,AHMED ALKASSAR,Goalkeeper,22,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,Mohammed Kanoo,Midfielder,23,5713.0,Mohammed Kanoo,Saudi Arabia,True,exact_normalized_country
+Saudi Arabia (KSA),Saudi Arabia,MOTEB ALHARBI,Defender,24,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,JEHAD THIKRI,Defender,25,,,,False,unmatched
+Saudi Arabia (KSA),Saudi Arabia,MOHAMMED ABU,Defender,26,,,,False,unmatched
+Scotland (SCO),Scotland,GUNN Angus,Goalkeeper,1,22379.0,Angus Gunn,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,HICKEY Aaron,Defender,2,,,,False,unmatched
+Scotland (SCO),Scotland,Andrew Robertson,Defender,3,3655.0,Andrew Robertson,Scotland,True,exact_normalized_country
+Scotland (SCO),Scotland,McTOMINAY Scott,Midfielder,4,3620.0,Scott McTominay,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,HANLEY Grant,Defender,5,9481.0,Grant Campbell Hanley,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,TIERNEY Kieran,Defender,6,10540.0,Kieran Tierney,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,McGINN John,Midfielder,7,9974.0,John McGinn,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,FLETCHER Tyler,Midfielder,8,,,,False,unmatched
+Scotland (SCO),Scotland,DYKES Lyndon,Forward,9,29571.0,Lyndon Dykes,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,ADAMS Che,Forward,10,9466.0,Che Adams,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,CHRISTIE Ryan,Midfielder,11,12510.0,Ryan Christie,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,KELLY Liam,Goalkeeper,12,,,,False,unmatched
+Scotland (SCO),Scotland,HENDRY Jack,Defender,13,11116.0,Jack Hendry,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,STEWART Ross,Forward,14,,,,False,unmatched
+Scotland (SCO),Scotland,SOUTTAR John,Defender,15,,,,False,unmatched
+Scotland (SCO),Scotland,HYAM Dominic,Defender,16,,,,False,unmatched
+Scotland (SCO),Scotland,GANNON-DOAK Ben,Forward,17,,,,False,unmatched
+Scotland (SCO),Scotland,HIRST George,Forward,18,,,,False,unmatched
+Scotland (SCO),Scotland,FERGUSON Lewis,Midfielder,19,,,,False,unmatched
+Scotland (SCO),Scotland,SHANKLAND Lawrence,Forward,20,38169.0,Lawrence Shankland,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,GORDON Craig,Goalkeeper,21,,,,False,unmatched
+Scotland (SCO),Scotland,PATTERSON Nathan,Defender,22,37338.0,Nathan Patterson,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,Kenneth McLean,Midfielder,23,9478.0,Kenneth McLean,Scotland,True,exact_normalized_country
+Scotland (SCO),Scotland,RALSTON Anthony,Defender,24,22308.0,Anthony Ralston,Scotland,True,token_subset_country
+Scotland (SCO),Scotland,CURTIS Findlay,Forward,25,,,,False,unmatched
+Scotland (SCO),Scotland,McKENNA Scott,Defender,26,10002.0,Scott McKenna,Scotland,True,token_subset_country
+Senegal (SEN),Senegal,DIOUF Yehvann,Goalkeeper,1,,,,False,unmatched
+Senegal (SEN),Senegal,SARR Mamadou,Defender,2,,,,False,unmatched
+Senegal (SEN),Senegal,KOULIBALY Kalidou,Defender,3,5675.0,Kalidou Koulibaly,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,SECK Abdoulaye,Defender,4,25759.0,Abdoulaye Seck,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,Idrissa Gana Gueye,Midfielder,5,3436.0,Idrissa Gana Gueye,Senegal,True,exact_normalized_country
+Senegal (SEN),Senegal,CISS Pathe,Midfielder,6,31751.0,Pathé Ismaël Ciss,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,DIAO Assane,Forward,7,,,,False,unmatched
+Senegal (SEN),Senegal,CAMARA Lamine,Midfielder,8,392153.0,Lamine Camara,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,DIENG Bamba,Forward,9,88123.0,Cheikh Ahmadou Bamba Mbacke Dieng,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,MANE Sadio,Forward,10,3629.0,Sadio Mané,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,JACKSON Nicolas,Forward,11,50497.0,Nicolas Jackson,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,NDIAYE Cherif,Forward,12,,,,False,unmatched
+Senegal (SEN),Senegal,NDIAYE Iliman,Forward,13,80484.0,Iliman Ndiaye,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,JAKOBS Ismail,Defender,14,32915.0,Ismail Jakobs,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,DIATTA Krepin,Defender,15,20758.0,Krépin Diatta,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,MENDY Edouard,Goalkeeper,16,7379.0,Edouard Mendy,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,SARR Pape,Midfielder,17,50498.0,Pape Matar Sarr,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,SARR Ismaila,Forward,18,2941.0,Ismaïla Sarr,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,NIAKHATE Moussa,Defender,19,3198.0,Moussa Niakhate,Senegal,True,token_subset_country
+Senegal (SEN),Senegal,MBAYE Ibrahim,Forward,20,,,,False,unmatched
+Senegal (SEN),Senegal,DIARRA Habib,Midfielder,21,,,,False,unmatched
+Senegal (SEN),Senegal,NDIAYE Bara,Midfielder,22,,,,False,unmatched
+Senegal (SEN),Senegal,DIAW Mory,Goalkeeper,23,,,,False,unmatched
+Senegal (SEN),Senegal,MENDY Antoine,Defender,24,,,,False,unmatched
+Senegal (SEN),Senegal,DIOUF El,Defender,25,,,,False,unmatched
+Senegal (SEN),Senegal,GUEYE Pape,Midfielder,26,21026.0,Pape Gueye,Senegal,True,token_subset_country
+South Africa (RSA),South Africa,WILLIAMS Ronwen,Goalkeeper,1,66721.0,Ronwen Williams,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,MATULUDI Thabang,Defender,2,,,,False,unmatched
+South Africa (RSA),South Africa,NDAMANE Khulumani,Defender,3,,,,False,unmatched
+South Africa (RSA),South Africa,MOKOENA Teboho,Midfielder,4,66716.0,Teboho Mokoena,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,MBATHA Thalente,Midfielder,5,,,,False,unmatched
+South Africa (RSA),South Africa,MODIBA Aubrey,Defender,6,65733.0,Aubrey Maphosa Modiba,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,APPOLLIS Oswin,Forward,7,66725.0,Oswin Reagan Appollis,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,MOREMI Tshepang,Forward,8,,,,False,unmatched
+South Africa (RSA),South Africa,FOSTER Lyle,Forward,9,,,,False,unmatched
+South Africa (RSA),South Africa,MOFOKENG Relebohile,Forward,10,,,,False,unmatched
+South Africa (RSA),South Africa,ZWANE Themba,Midfielder,11,65726.0,Themba Zwane,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,MASEKO Thapelo,Forward,12,202037.0,Thapelo Maseko,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,SITHOLE Sphephelo,Midfielder,13,42527.0,Sphephelo S''Miso Sithole,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,MBOKAZI Mbekezeli,Defender,14,,,,False,unmatched
+South Africa (RSA),South Africa,RAYNERS Iqraam,Forward,15,,,,False,unmatched
+South Africa (RSA),South Africa,CHAINE Sipho,Goalkeeper,16,,,,False,unmatched
+South Africa (RSA),South Africa,MAKGOPA Evidence,Forward,17,65853.0,Evidence Makgopa,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,KABINI Samukele,Defender,18,,,,False,unmatched
+South Africa (RSA),South Africa,SIBISI Nkosinathi,Defender,19,67974.0,Nkosinathi Sibisi,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,MUDAU Khuliso,Defender,20,65719.0,Khuliso Johnson Mudau,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,OKON Ime,Defender,21,,,,False,unmatched
+South Africa (RSA),South Africa,GOSS Ricardo,Goalkeeper,22,,,,False,unmatched
+South Africa (RSA),South Africa,ADAMS Jayden,Midfielder,23,65761.0,Jayden Adams,South Africa,True,token_subset_country
+South Africa (RSA),South Africa,MAKHANYA Olwethu,Defender,24,,,,False,unmatched
+South Africa (RSA),South Africa,SEBELEBELE Kamogelo,Forward,25,,,,False,unmatched
+South Africa (RSA),South Africa,CROSS Bradley,Defender,26,,,,False,unmatched
+Spain (ESP),Spain,RAYA David,Goalkeeper,1,4127.0,David Raya Martin,Spain,True,token_subset_country
+Spain (ESP),Spain,PUBILL Marc,Defender,2,,,,False,unmatched
+Spain (ESP),Spain,Alejandro Grimaldo García,Defender,3,10336.0,Alejandro Grimaldo García,Spain,True,exact_normalized_country
+Spain (ESP),Spain,GARCIA Eric,Defender,4,31953.0,Eric García Martret,Spain,True,token_subset_country
+Spain (ESP),Spain,LLORENTE Marcos,Defender,5,6840.0,Marcos Llorente Moreno,Spain,True,token_subset_country
+Spain (ESP),Spain,MERINO Mikel,Midfielder,6,3042.0,Mikel Merino Zazón,Spain,True,token_subset_country
+Spain (ESP),Spain,TORRES Ferran,Forward,7,6748.0,Ferrán Torres García,Spain,True,token_subset_country
+Spain (ESP),Spain,RUIZ Fabian,Midfielder,8,6655.0,Fabián Ruiz Peña,Spain,True,token_subset_country
+Spain (ESP),Spain,Pablo Martín Páez Gavira,Midfielder,9,133353.0,Pablo Martín Páez Gavira,Spain,True,exact_normalized_country
+Spain (ESP),Spain,Daniel Olmo Carvajal,Forward,10,16532.0,Daniel Olmo Carvajal,Spain,True,exact_normalized_country
+Spain (ESP),Spain,PINO Yeremy,Forward,11,,,,False,unmatched
+Spain (ESP),Spain,PORRO Pedro,Defender,12,,,,False,unmatched
+Spain (ESP),Spain,GARCIA Joan,Goalkeeper,13,,,,False,unmatched
+Spain (ESP),Spain,LAPORTE Aymeric,Defender,14,4353.0,Aymeric Laporte,Spain,True,token_subset_country
+Spain (ESP),Spain,Alejandro Baena Rodríguez,Midfielder,15,41115.0,Alejandro Baena Rodríguez,Spain,True,exact_normalized_country
+Spain (ESP),Spain,Rodrigo Hernández Cascante,Midfielder,16,6765.0,Rodrigo Hernández Cascante,Spain,True,exact_normalized_country
+Spain (ESP),Spain,Nicholas Williams Arthuer,Forward,17,68574.0,Nicholas Williams Arthuer,Spain,True,exact_normalized_country
+Spain (ESP),Spain,ZUBIMENDI Martin,Midfielder,18,24921.0,Martín Zubimendi Ibáñez,Spain,True,token_subset_country
+Spain (ESP),Spain,YAMAL Lamine,Forward,19,316046.0,Lamine Yamal Nasraoui Ebana,Spain,True,token_subset_country
+Spain (ESP),Spain,Pedro González López,Midfielder,20,30486.0,Pedro González López,Spain,True,exact_normalized_country
+Spain (ESP),Spain,OYARZABAL Mikel,Forward,21,6685.0,Mikel Oyarzabal Ugarte,Spain,True,token_subset_country
+Spain (ESP),Spain,CUBARSI Pau,Defender,22,,,,False,unmatched
+Spain (ESP),Spain,SIMON Unai,Goalkeeper,23,11748.0,Unai Simón Mendibil,Spain,True,token_subset_country
+Spain (ESP),Spain,CUCURELLA Marc,Defender,24,17620.0,Marc Cucurella Saseta,Spain,True,token_subset_country
+Spain (ESP),Spain,MUNOZ Victor,Forward,25,,,,False,unmatched
+Spain (ESP),Spain,IGLESIAS Borja,Forward,26,,,,False,unmatched
+Sweden (SWE),Sweden,WIDELL ZETTERSTROM,Goalkeeper,1,,,,False,unmatched
+Sweden (SWE),Sweden,LAGERBIELKE Gustaf,Defender,2,,,,False,unmatched
+Sweden (SWE),Sweden,LINDELOF Victor,Defender,3,3702.0,Victor Nilsson Lindelöf,Sweden,True,token_subset_country
+Sweden (SWE),Sweden,HIEN Isak,Defender,4,,,,False,unmatched
+Sweden (SWE),Sweden,GUDMUNDSSON Gabriel,Defender,5,,,,False,unmatched
+Sweden (SWE),Sweden,JOHANSSON Herman,Defender,6,,,,False,unmatched
+Sweden (SWE),Sweden,BERGVALL Lucas,Midfielder,7,,,,False,unmatched
+Sweden (SWE),Sweden,SVENSSON Daniel,Defender,8,,,,False,unmatched
+Sweden (SWE),Sweden,ISAK Alexander,Forward,9,8819.0,Alexander Isak,Sweden,True,token_subset_country
+Sweden (SWE),Sweden,NYGREN Benjamin,Midfielder,10,,,,False,unmatched
+Sweden (SWE),Sweden,ELANGA Anthony,Forward,11,,,,False,unmatched
+Sweden (SWE),Sweden,JOHANSSON Viktor,Goalkeeper,12,,,,False,unmatched
+Sweden (SWE),Sweden,SEMA Ken,Midfielder,13,,,,False,unmatched
+Sweden (SWE),Sweden,EKDAL Hjalmar,Defender,14,,,,False,unmatched
+Sweden (SWE),Sweden,STARFELT Carl,Defender,15,,,,False,unmatched
+Sweden (SWE),Sweden,KARLSTROM Jesper,Midfielder,16,,,,False,unmatched
+Sweden (SWE),Sweden,GYOKERES Viktor,Forward,17,,,,False,unmatched
+Sweden (SWE),Sweden,AYARI Yasin,Midfielder,18,,,,False,unmatched
+Sweden (SWE),Sweden,SVANBERG Mattias,Midfielder,19,,,,False,unmatched
+Sweden (SWE),Sweden,SMITH Eric,Defender,20,,,,False,unmatched
+Sweden (SWE),Sweden,BERNHARDSSON Alexander,Defender,21,,,,False,unmatched
+Sweden (SWE),Sweden,ZENELI Besfort,Midfielder,22,,,,False,unmatched
+Sweden (SWE),Sweden,NORDFELDT Kristoffer,Goalkeeper,23,,,,False,unmatched
+Sweden (SWE),Sweden,STROUD Elliot,Defender,24,,,,False,unmatched
+Sweden (SWE),Sweden,NILSSON Gustaf,Forward,25,,,,False,unmatched
+Sweden (SWE),Sweden,ALI Taha,Forward,26,,,,False,unmatched
+Switzerland (SUI),Switzerland,KOBEL Gregor,Goalkeeper,1,17974.0,Gregor Kobel,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,MUHEIM Miro,Defender,2,,,,False,unmatched
+Switzerland (SUI),Switzerland,WIDMER Silvan,Defender,3,7796.0,Silvan Widmer,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,ELVEDI Nico,Defender,4,8814.0,Nico Elvedi,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,AKANJI Manuel,Defender,5,5549.0,Manuel Obafemi Akanji,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,ZAKARIA Denis,Midfielder,6,5538.0,Denis Lemi Zakaria Lako Lado,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,EMBOLO Breel,Forward,7,5545.0,Breel-Donald Embolo,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,FREULER Remo,Midfielder,8,6983.0,Remo Freuler,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,MANZAMBI Johan,Midfielder,9,,,,False,unmatched
+Switzerland (SUI),Switzerland,XHAKA Granit,Midfielder,10,3500.0,Granit Xhaka,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,NDOYE Dan,Forward,11,45190.0,Dan Ndoye,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,MVOGO Yvon,Goalkeeper,12,,,,False,unmatched
+Switzerland (SUI),Switzerland,RODRIGUEZ Ricardo,Defender,13,5544.0,Ricardo Iván Rodríguez Araya,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,JASHARI Ardon,Midfielder,14,41655.0,Ardon Jashari,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,SOW Djibril,Midfielder,15,16026.0,Djibril Sow,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,FASSNACHT Christian,Forward,16,16022.0,Christian Fassnacht,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,VARGAS Ruben,Forward,17,30401.0,Ruben Vargas,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,Eray Ervin Cömert,Defender,18,29012.0,Eray Ervin Cömert,Switzerland,True,exact_normalized_country
+Switzerland (SUI),Switzerland,OKAFOR Noah,Forward,19,29006.0,Noah Okafor,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,AEBISCHER Michel,Midfielder,20,16016.0,Michel Aebischer,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,KELLER Marvin,Goalkeeper,21,,,,False,unmatched
+Switzerland (SUI),Switzerland,RIEDER Fabian,Midfielder,22,50436.0,Fabian Rieder,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,AMDOUNI Zeki,Forward,23,48335.0,Mohamed Zeki Amdouni,Switzerland,True,token_subset_country
+Switzerland (SUI),Switzerland,AMENDA Aurele,Defender,24,,,,False,unmatched
+Switzerland (SUI),Switzerland,JAQUEZ Luca,Defender,25,,,,False,unmatched
+Switzerland (SUI),Switzerland,ITTEN Cedric,Forward,26,,,,False,unmatched
+Tunisia (TUN),Tunisia,CHAMAKH Mouhib,Goalkeeper,1,,,,False,unmatched
+Tunisia (TUN),Tunisia,ABDI Ali,Defender,2,30681.0,Ali Abdi,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,TALBI Montassar,Defender,3,32450.0,Montassar Omar Talbi,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,REKIK Omar,Defender,4,,,,False,unmatched
+Tunisia (TUN),Tunisia,AROUS Adam,Defender,5,,,,False,unmatched
+Tunisia (TUN),Tunisia,BRONN Dylan,Defender,6,5655.0,Dylan Daniel Mahmoud Bronn,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,ACHOURI Elias,Forward,7,132461.0,Mohamed Elias Achouri,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,SAAD Elias,Forward,8,,,,False,unmatched
+Tunisia (TUN),Tunisia,MASTOURI Hazem,Forward,9,,,,False,unmatched
+Tunisia (TUN),Tunisia,MEJBRI Hannibal,Midfielder,10,50988.0,Hannibal Mejbri,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,GHARBI Ismael,Midfielder,11,,,,False,unmatched
+Tunisia (TUN),Tunisia,BEN OUANES,Defender,12,,,,False,unmatched
+Tunisia (TUN),Tunisia,KHEDIRA Rani,Midfielder,13,,,,False,unmatched
+Tunisia (TUN),Tunisia,AYARI Khalil,Midfielder,14,,,,False,unmatched
+Tunisia (TUN),Tunisia,HADJ MAHMOUD,Midfielder,15,,,,False,unmatched
+Tunisia (TUN),Tunisia,DAHMEN Aymen,Goalkeeper,16,105943.0,Aymen Dahmen,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,SKHIRI Ellyes,Midfielder,17,3767.0,Ellyes Joris Skhiri,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,ELLOUMI Rayan,Forward,18,,,,False,unmatched
+Tunisia (TUN),Tunisia,CHAOUAT Firas,Forward,19,,,,False,unmatched
+Tunisia (TUN),Tunisia,VALERY Yan,Defender,20,,,,False,unmatched
+Tunisia (TUN),Tunisia,BEN HMIDA,Defender,21,,,,False,unmatched
+Tunisia (TUN),Tunisia,BEN HESSEN,Goalkeeper,22,,,,False,unmatched
+Tunisia (TUN),Tunisia,NEFFATI Moutaz,Defender,23,,,,False,unmatched
+Tunisia (TUN),Tunisia,CHIKHAOUI Raed,Defender,24,,,,False,unmatched
+Tunisia (TUN),Tunisia,SLIMANE Anis,Midfielder,25,35592.0,Anis Ben Slimane,Tunisia,True,token_subset_country
+Tunisia (TUN),Tunisia,TOUNEKTI Sebastian,Midfielder,26,,,,False,unmatched
+Türkiye (TUR),Türkiye,GUNOK Mert,Goalkeeper,1,30310.0,Fehmi Mert Günok,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,CELIK Zeki,Defender,2,10349.0,Mehmet Zeki Çelik,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,DEMIRAL Merih,Defender,3,23558.0,Merih Demiral,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,SOYUNCU Caglar,Defender,4,8963.0,Caglar Söyüncü,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,OZCAN Salih,Midfielder,5,9085.0,Salih Özcan,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,KOKCU Orkun,Midfielder,6,22212.0,Orkun Kökçü,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,AKTURKOGLU Kerem,Forward,7,49689.0,Muhammed Kerem Aktürkoğlu,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,GULER Arda,Forward,8,116587.0,Arda Güler,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,GUL Deniz,Forward,9,,,,False,unmatched
+Türkiye (TUR),Türkiye,CALHANOGLU Hakan,Midfielder,10,7039.0,Hakan Çalhanoğlu,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,YILDIZ Kenan,Forward,11,151813.0,Kenan Yildiz,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,Altay Bayındır,Goalkeeper,12,30442.0,Altay Bayındır,Turkey,True,exact_normalized_country
+Türkiye (TUR),Türkiye,ELMALI Eren,Defender,13,,,,False,unmatched
+Türkiye (TUR),Türkiye,Abdülkerim Bardakcı,Defender,14,48383.0,Abdülkerim Bardakcı,Turkey,True,exact_normalized_country
+Türkiye (TUR),Türkiye,KABAK Ozan,Defender,15,,,,False,unmatched
+Türkiye (TUR),Türkiye,YUKSEK Ismail,Midfielder,16,78241.0,İsmail Yüksek,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,KAHVECI Irfan,Forward,17,30311.0,İrfan Can Kahveci,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,MULDUR Mert,Defender,18,10826.0,Mert Müldür,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,AKGUN Yunus,Forward,19,18723.0,Yunus Akgün,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,Ferdi Erenay Kadıoğlu,Defender,20,30438.0,Ferdi Erenay Kadıoğlu,Turkey,True,exact_normalized_country
+Türkiye (TUR),Türkiye,Barış Alper Yılmaz,Forward,21,134209.0,Barış Alper Yılmaz,Turkey,True,exact_normalized_country
+Türkiye (TUR),Türkiye,AYHAN Kaan,Midfielder,22,12293.0,Kaan Ayhan,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,Uğurcan Çakır,Goalkeeper,23,30357.0,Uğurcan Çakır,Turkey,True,exact_normalized_country
+Türkiye (TUR),Türkiye,AYDIN Oguz,Forward,24,,,,False,unmatched
+Türkiye (TUR),Türkiye,AKAYDIN Samet,Defender,25,133305.0,Samet Akaydin,Turkey,True,token_subset_country
+Türkiye (TUR),Türkiye,UZUN Can,Forward,26,,,,False,unmatched
+USA (USA),USA,Matthew Charles Turner,Goalkeeper,1,12352.0,Matthew Charles Turner,United States,True,exact_normalized_country
+USA (USA),USA,DEST Sergino,Defender,2,21881.0,Sergino Dest,United States,True,token_subset_country
+USA (USA),USA,RICHARDS Chris,Defender,3,41266.0,Chris Richards,United States,True,token_subset_country
+USA (USA),USA,ADAMS Tyler,Midfielder,4,12751.0,Tyler Adams,United States,True,token_subset_country
+USA (USA),USA,ROBINSON Antonee,Defender,5,4614.0,Antonee Robinson,United States,True,token_subset_country
+USA (USA),USA,TRUSTY Auston,Defender,6,,,,False,unmatched
+USA (USA),USA,REYNA Giovanni,Midfielder,7,34339.0,Giovanni Reyna,United States,True,token_subset_country
+USA (USA),USA,McKENNIE Weston,Midfielder,8,8526.0,Weston McKennie,United States,True,token_subset_country
+USA (USA),USA,PEPI Ricardo,Forward,9,26151.0,Ricardo Daniel Pepi,United States,True,token_subset_country
+USA (USA),USA,PULISIC Christian,Forward,10,8246.0,Christian Pulisic,United States,True,token_subset_country
+USA (USA),USA,AARONSON Brenden,Forward,11,24243.0,Brenden Aaronson,United States,True,token_subset_country
+USA (USA),USA,ROBINSON Miles,Defender,12,,,,False,unmatched
+USA (USA),USA,REAM Tim,Defender,13,18242.0,Tim Ream,United States,True,token_subset_country
+USA (USA),USA,BERHALTER Sebastian,Midfielder,14,,,,False,unmatched
+USA (USA),USA,ROLDAN Cristian,Midfielder,15,,,,False,unmatched
+USA (USA),USA,FREEMAN Alex,Defender,16,,,,False,unmatched
+USA (USA),USA,TILLMAN Malik,Midfielder,17,39259.0,Malik Tillman,United States,True,token_subset_country
+USA (USA),USA,ARFSTEN Max,Defender,18,,,,False,unmatched
+USA (USA),USA,WRIGHT Haji,Forward,19,22008.0,Haji Wright,United States,True,token_subset_country
+USA (USA),USA,BALOGUN Folarin,Forward,20,51733.0,Folarin Balogun,United States,True,token_subset_country
+USA (USA),USA,WEAH Timothy,Forward,21,3377.0,Timothy Weah,United States,True,token_subset_country
+USA (USA),USA,McKENZIE Mark,Defender,22,,,,False,unmatched
+USA (USA),USA,Joseph Scally,Defender,23,36830.0,Joseph Scally,United States,True,exact_normalized_country
+USA (USA),USA,FREESE Matt,Goalkeeper,24,,,,False,unmatched
+USA (USA),USA,BRADY Chris,Goalkeeper,25,,,,False,unmatched
+USA (USA),USA,ZENDEJAS Alex,Forward,26,,,,False,unmatched
+Uruguay (URU),Uruguay,ROCHET Sergio,Goalkeeper,1,36710.0,Sergio Rochet Álvarez,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,GIMENEZ Jose,Defender,2,5259.0,José María Giménez de Vargas,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,CACERES Sebastian,Defender,3,35690.0,Sebastián Enzo Cáceres Ramos,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,ARAUJO Ronald,Defender,4,32480.0,Ronald Federico Araújo da Silva,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,UGARTE Manuel,Midfielder,5,36659.0,Manuel Ugarte Ribeiro,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,BENTANCUR Rodrigo,Midfielder,6,5260.0,Rodrigo Bentancur Colmán,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,DE LA,Midfielder,7,28729.0,Diego Nicolás De La Cruz Arcosa,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,VALVERDE Federico,Midfielder,8,6773.0,Federico Santiago Valverde Dipetta,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,NUNEZ Darwin,Forward,9,32478.0,Darwin Gabriel Núñez Ribeiro,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,DE ARRASCAETA,Midfielder,10,5258.0,Giorgian Daniel De Arrascaeta Benedetti,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,PELLISTRI Facundo,Forward,11,36288.0,Facundo Pellistri Rebollo,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,MELE Santiago,Goalkeeper,12,,,,False,unmatched
+Uruguay (URU),Uruguay,VARELA Guillermo,Defender,13,5264.0,Guillermo Varela Olivera,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,CANOBBIO Agustin,Midfielder,14,36666.0,Agustín Canobbio Graviz,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,MARTINEZ Emiliano,Midfielder,15,,,,False,unmatched
+Uruguay (URU),Uruguay,OLIVERA Mathias,Defender,16,7104.0,Mathías Olivera Miramontes,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,VINA Matias,Defender,17,34476.0,Matías Nicolás Viña Susperreguy,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,RODRIGUEZ Brian,Forward,18,30736.0,Paul Brian Rodríguez Bravo,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,AGUIRRE Rodrigo,Forward,19,,,,False,unmatched
+Uruguay (URU),Uruguay,Maximiliano Javier Araújo Vilches,Midfielder,20,35492.0,Maximiliano Javier Araújo Vilches,Uruguay,True,exact_normalized_country
+Uruguay (URU),Uruguay,VINAS Federico,Forward,21,,,,False,unmatched
+Uruguay (URU),Uruguay,PIQUEREZ Joaquin,Midfielder,22,,,,False,unmatched
+Uruguay (URU),Uruguay,MUSLERA Fernando,Goalkeeper,23,5267.0,Néstor Fernando Muslera Micol,Uruguay,True,token_subset_country
+Uruguay (URU),Uruguay,BUENO Santiago,Defender,24,,,,False,unmatched
+Uruguay (URU),Uruguay,SANABRIA Juan,Midfielder,25,,,,False,unmatched
+Uruguay (URU),Uruguay,ZALAZAR Rodrigo,Midfielder,26,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,YUSUPOV Utkir,Goalkeeper,1,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,KHUSANOV Abdukodir,Defender,2,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ALIJONOV Khojiakbar,Defender,3,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,SAYFIEV Farrukh,Defender,4,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ASHURMATOV Rustam,Defender,5,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,MOZGOVOY Akmal,Midfielder,6,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,SHUKUROV Otabek,Midfielder,7,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ISKANDEROV Jamshid,Midfielder,8,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,XAMROBEKOV Odiljon,Midfielder,9,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,JIYANOV Ruslanbek,Midfielder,10,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,URUNOV Oston,Midfielder,11,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,NEMATOV Abduvohid,Goalkeeper,12,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,NASRULLAEV Sherzod,Defender,13,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,SHOMURODOV Eldor,Forward,14,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ESHMURODOV Umar,Defender,15,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ERGASHEV Botirali,Goalkeeper,16,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,KHAMDAMOV Dostonbek,Midfielder,17,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ABDULLAEV Abdulla,Defender,18,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,GANIEV Azizjon,Midfielder,19,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,AMONOV Azizbek,Forward,20,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,SERGEEV Igor,Forward,21,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,FAYZULLAEV Abbosbek,Midfielder,22,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ESANOV Sherzod,Midfielder,23,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,KARIMOV Behruzjon,Defender,24,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,ULMASALIYEV Avazbek,Defender,25,,,,False,unmatched
+Uzbekistan (UZB),Uzbekistan,UROZOV Jakhongir,Defender,26,,,,False,unmatched
