@@ -1,0 +1,94 @@
+roster_index,country,roster_name,candidate_player_id,candidate_name,candidate_team,candidate_count,review_decision,review_confidence,review_notes
+8,Algeria (ALG),GOUIRI Amine,4435,Amine Gouiri,OGC Nice | Rennes,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+12,Algeria (ALG),HADJAM Jaouen,45089,Jaouen Hadjam,Nantes,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+37,Argentina (ARG),RULLI Geronimo,6694,Gerónimo Rulli,Real Sociedad,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+50,Argentina (ARG),MEDINA Facundo,30415,Facundo Axel Medina,Lens,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+96,Austria (AUT),LJUBICIC Dejan,8623,Dejan Ljubicic,FC Köln,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+100,Austria (AUT),FRIEDL Marco,15854,Marco Friedl,Werder Bremen,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+134,Bosnia And Herzegovina (BIH),KOLASINAC Sead,3510,Sead Kolašinac,Olympique de Marseille | Schalke 04,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+139,Bosnia And Herzegovina (BIH),DEMIROVIC Ermedin,6874,Ermedin Demirović,Augsburg | Deportivo Alavés,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+181,Brazil (BRA),RAYAN Rayan,4127,David Raya Martin,Spain,5,reject,high,No generated candidate plausibly matches the Brazilian roster player.
+181,Brazil (BRA),RAYAN Rayan,7317,Rayan Ny Aina Arnaldo Raveloson,Auxerre,5,reject,high,No generated candidate plausibly matches the Brazilian roster player.
+181,Brazil (BRA),RAYAN Rayan,12111,Rayan Aït Nouri,Algeria,5,reject,high,No generated candidate plausibly matches the Brazilian roster player.
+181,Brazil (BRA),RAYAN Rayan,32649,Mathis Rayan Cherki,Lyon,5,reject,high,No generated candidate plausibly matches the Brazilian roster player.
+181,Brazil (BRA),RAYAN Rayan,384888,Ray Kendry Páez Andrade,Ecuador,5,reject,high,No generated candidate plausibly matches the Brazilian roster player.
+202,Cabo Verde (CPV),NUNO DA,3216,Nuno Miguel da Costa Jóia,Auxerre,1,accept,medium,Roster name appears truncated; Nuno da Costa is a strong candidate and should be checked against the source roster.
+247,Colombia (COL),PUERTA Gustavo,261630,Gustavo Adolfo Puerta Molano,Bayer Leverkusen,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+258,Colombia (COL),SUAREZ Luis,5246,Luis Alberto Suárez Díaz,Atlético Madrid | Barcelona | Uruguay,2,reject,high,Uruguay player; does not match the Colombia roster entry.
+258,Colombia (COL),SUAREZ Luis,24093,Luis Javier Suárez Charris,Granada,2,accept,high,Country and name indicate Luis Javier Suárez Charris; reject the Uruguay candidate.
+266,Congo DR (COD),MBUKU Nathanael,29962,Nathanaël Mbuku,Stade de Reims,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+375,Côte D'Ivoire (CIV),WAHI Elye,61095,Sepe Elye Wahi,Montpellier,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+383,Côte D'Ivoire (CIV),AGBADOU Emmanuel,49705,Emmanuel Agbadou,Stade de Reims,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+385,Côte D'Ivoire (CIV),GUESSAND Evann,45189,Evann Guessand,Nantes,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+386,Côte D'Ivoire (CIV),LAFONT Alban,2981,Alban Lafont,Nantes | Toulouse,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+466,England (ENG),SPENCE Djed,33241,Djed Spence,Rennes,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+468,France (FRA),SAMBA Brice,4893,Brice Samba,Lens,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+469,France (FRA),GUSTO Malo,39260,Malo Gusto,Lyon,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+485,France (FRA),ZAIRE-EMERY Warren,144059,Warren Zaire Emery,Paris Saint-Germain,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+487,France (FRA),DOUE Desire,214013,Désiré Doué,Rennes,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+491,France (FRA),CHERKI Rayan,32649,Mathis Rayan Cherki,Lyon,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+492,France (FRA),AKLIOUCHE Maghnes,144884,Maghnes Akliouche,AS Monaco,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+493,France (FRA),LACROIX Maxence,22314,Maxence Lacroix,Wolfsburg,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+498,Germany (GER),PAVLOVIC Aleksandar,140589,Aleksandar Pavlović,Bayern Munich,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+502,Germany (GER),LEWELING Jamie,28805,Jamie Leweling,VfB Stuttgart,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+504,Germany (GER),WOLTEMADE Nick,34870,Nick Woltemade,Werder Bremen,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+505,Germany (GER),BAUMANN Oliver,8393,Oliver Baumann,Hoffenheim,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+509,Germany (GER),STILLER Angelo,39360,Angelo Stiller,VfB Stuttgart,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+513,Germany (GER),AMIRI Nadiem,8403,Nadiem Amiri,Bayer Leverkusen | FSV Mainz 05 | Hoffenheim,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+516,Germany (GER),NMECHA Felix,49665,Felix Kalu Nmecha,Borussia Dortmund,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+546,Haiti (HAI),PLACIDE Johny,3980,Johny Placide,Stade de Reims,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+555,Haiti (HAI),BELLEGARDE Jean-Ricner,19718,Jean-Ricner Bellegarde,Strasbourg,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+567,Haiti (HAI),DUVERNE Jean-Kevin,7273,Jean-Kevin Duverne,Stade Brestois,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+582,IR Iran (IRN),ALIPOUR Ali,4063,Ahmed Elsayed Ali Elsayed Hegazy,Egypt,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,5192,Yehya Sulaiman Ali Al-Shehri,Saudi Arabia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,5254,Ali Gabr,Egypt,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,5647,Ali Maâloul,Tunisia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,5715,Ali Albulayhi,Saudi Arabia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,6290,Motaz Ali Hassan Hawsawi,Saudi Arabia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,23874,Ali Gholizadeh,Iran,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,30681,Ali Abdi,Tunisia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,50938,Ali Sowe,Gambia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,51096,Ali Al Hassan,Saudi Arabia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,102816,Mohamed Ali Ben Romdhane,Tunisia,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,124495,Almoez Ali Zainalabiddin Abdulla,Qatar,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,125818,Ali Karimi,Iran,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,149463,Ali Assadalla Thaimn Qambar,Qatar,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+582,IR Iran (IRN),ALIPOUR Ali,224628,Ali Ahmed,Canada,15,reject,high,Candidates match only the common token 'Ali'; Ali Alipour is not represented among them.
+699,Korea Republic (KOR),KIM Jingyu,40538,Jin-Su Kim,Hoffenheim | South Korea,1,needs_review,medium,Jingyu Kim and Jin-Su Kim are different names; verify the roster source before assigning an ID.
+741,Morocco (MAR),DIOP Issa,4349,Issa Diop,Toulouse,1,accept,medium,"Exact token match, but validate nationality/eligibility because the historical record is club-derived."
+760,Netherlands (NED),KLUIVERT Justin,8063,Justin Kluivert,OGC Nice,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+774,Netherlands (NED),DE JONG,8118,Frenkie de Jong,Barcelona | Netherlands | Netherlands,2,ambiguous,low,Surname-only roster entry; Frenkie and Luuk de Jong both remain plausible without more context.
+774,Netherlands (NED),DE JONG,20033,Luuk de Jong,Netherlands | Netherlands | Sevilla,2,ambiguous,low,Surname-only roster entry; Frenkie and Luuk de Jong both remain plausible without more context.
+828,Norway (NOR),HAUGE Jens,29925,Jens Petter Hauge,Eintracht Frankfurt,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+831,Norway (NOR),RYERSON Julian,12387,Julian Ryerson,Borussia Dortmund,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+865,Paraguay (PAR),GOMEZ Diego,222155,Diego Alexander Gómez Amarilla,Inter Miami,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+866,Paraguay (PAR),SANABRIA Antonio,6880,Arnaldo Antonio Sanabria Ayala,Real Betis | Sporting Gijón,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+868,Paraguay (PAR),MAURICIO Mauricio,7692,Mauricio Lemos Merladet,Las Palmas,3,reject,high,None of the generated candidates matches the Paraguayan roster player.
+868,Paraguay (PAR),MAURICIO Mauricio,18874,Mauricio Aníbal Isla Isla,Chile | Chile | Olympique de Marseille,3,reject,high,None of the generated candidates matches the Paraguayan roster player.
+868,Paraguay (PAR),MAURICIO Mauricio,27463,Mauricio Andrés Cuero Castillo,Levante UD,3,reject,high,None of the generated candidates matches the Paraguayan roster player.
+899,Portugal (POR),FRANCISCO TRINCAO,22390,Francisco António Machado Mota de Castro Trincão,Barcelona,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+905,Portugal (POR),RUI SILVA,24140,Rui Tiago Dantas da Silva,Granada,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+929,Qatar (QAT),AHMED FATHY,5250,Ahmed Fathy Abdel Meneim Ibrahim,Egypt,1,needs_review,medium,"Exact name resemblance, but the database candidate is associated with Egypt while the roster player is listed for Qatar."
+988,Senegal (SEN),DIOUF Yehvann,24987,Yehvann Diouf,Stade de Reims,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1010,Senegal (SEN),DIAW Mory,48502,Mory Diaw,Clermont Foot,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1011,Senegal (SEN),MENDY Antoine,117109,Antoine Mendy,OGC Nice,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1051,Spain (ESP),PORRO Pedro,11292,Pedro Antonio Porro Sauceda,Girona | Real Valladolid,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1065,Spain (ESP),IGLESIAS Borja,11391,Borja Iglesias Quintas,Bayer Leverkusen | Espanyol | Real Betis,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1070,Sweden (SWE),GUDMUNDSSON Gabriel,29594,Gabriel Gudmundsson,Lille,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1084,Sweden (SWE),SVANBERG Mattias,15879,Mattias Svanberg,Wolfsburg,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1103,Switzerland (SUI),MVOGO Yvon,11467,Yvon Landry Mvogo,Lorient,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1128,Tunisia (TUN),GHARBI Ismael,105848,Ismaël Gharbi,Paris Saint-Germain,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1130,Tunisia (TUN),KHEDIRA Rani,9402,Rani Khedira,Union Berlin,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1137,Tunisia (TUN),VALERY Yan,22117,Yan Valery,Angers,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1158,Türkiye (TUR),KABAK Ozan,20770,Ozan Muhammed Kabak,Hoffenheim,1,accept,high,Unique candidate with compatible full-name tokens; validate before final application.
+1210,Uruguay (URU),MARTINEZ Emiliano,6909,Damián Emiliano Martínez,Argentina,1,reject,high,Candidate is Argentina goalkeeper Damián Emiliano Martínez; roster entry belongs to Uruguay.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,5257,Mahmoud Abdul Monem Abdelhamid Soliman,Egypt,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,5263,Mohamed Abdul Shafy Sayed Abouezeid,Egypt,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,7615,Abdul Majeed Waris,Lorient,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,12325,Abdul Rahman Baba,Ghana,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,31015,Abdu Conté,Troyes,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,31029,Salis Abdul Samed,Ghana | Lens,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,51710,Saud Abdullah Abdul Hamid,Saudi Arabia,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,124495,Almoez Ali Zainalabiddin Abdulla,Qatar,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,136306,Abdul Fatawu Issahaku,Ghana,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
+1239,Uzbekistan (UZB),ABDULLAEV Abdulla,389294,Nouh Mohamed El Abd,Mauritania,10,reject,high,Candidates arise from weak prefix overlap; none matches Abdulla Abdullaev.
