@@ -167,7 +167,7 @@ Brazil (BRA),Brazil,MATHEUS CUNHA,Forward,9,,,,False,unmatched,,
 Brazil (BRA),Brazil,Neymar da Silva Santos Junior,Forward,10,4320,Neymar da Silva Santos Junior,Brazil,True,exact_normalized_country,,
 Brazil (BRA),Brazil,Raphael Dias Belloli,Forward,11,10595,Raphael Dias Belloli,Brazil,True,exact_normalized_country,,
 Brazil (BRA),Brazil,WEVERTON Weverton,Goalkeeper,12,25101,Weverton Pereira da Silva,Brazil,True,token_subset_country,,
-Brazil (BRA),Brazil,DANILO Danilo,Defender,13,3063,Danilo Luiz da Silva,Brazil,True,token_subset_country,,
+Brazil (BRA),Brazil,DANILO Danilo,Defender,13,,,,False,duplicate_roster_entry,,Duplicate roster entry assigned to player_id 3063. The exact normalized match was retained.
 Brazil (BRA),Brazil,BREMER Gleison,Defender,14,11493,Gleison Bremer Silva Nascimento,Brazil,True,token_subset_country,,
 Brazil (BRA),Brazil,LEO PEREIRA,Defender,15,,,,False,unmatched,,
 Brazil (BRA),Brazil,DOUGLAS SANTOS,Defender,16,,,,False,unmatched,,
